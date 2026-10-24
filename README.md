@@ -14,7 +14,7 @@
     <tr>
       <td>Forza Horizon 4</td>
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh4">FH4 database</a></td>
-      <td>1.0.0</td>
+      <td>1.1.0</td>
       <td>2026-10-24</td>
       <td>Based on Game data</a></td>
     </tr>
