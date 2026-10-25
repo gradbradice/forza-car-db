@@ -153,14 +153,10 @@
     "51": {"EN":"Retro Racers","BR":"Carros de Corrida Retrô","CHS":"复古赛车","CHT":"復古賽車","CZ":"Retro závodní vozy","DE":"Retro-Racer","DK":"Retro racerbiler","EL":"Ρετρό Αγωνιστικά Αυτοκίνητα","ES":"Coches de carreras retro","FI":"Retrokilpurit","FR":"Bolides d'époque","HU":"Retró versenyautók","IT":"Auto da corsa rétro","JP":"レトロ・レーサー","KO":"레트로 레이서","MX":"Autos de carreras retro","NL":"Retro racers","NO":"Retroracerbiler","PL":"Samochody wyścigowe retro","PT":"Carros de Corrida Rétro","RU":"Ретро-гоночные авто","SV":"Retroracerbilar","TR":"Retro Yarış Arabaları"}
   },
   "collections": {
-    "Aftermarket": {"EN":"Aftermarket"},
     "Autoshow": {"EN":"Autoshow"},
     "Autoshow DLC": {"EN":"Autoshow DLC"},
     "Collection Journal": {"EN":"Collection Journal"},
-    "Loyalty": {"EN":"Loyalty"},
-    "Seasonal": {"EN":"Seasonal"},
-    "Treasure": {"EN":"Treasure"},
-    "Wheelspin": {"EN":"Wheelspin"}
+    "Seasonal": {"EN":"Seasonal"}
   },
   "add-ons": {
     "2017 Ferrari J50 Preorder Car": {"EN":"2017 Ferrari J50 Preorder Car","BR":"Ferrari J50 Pré-venda 2017","CHS":"2017 法拉利 J50 Preorder Car","CHT":"2017 年份的 Ferrari J50 Preorder Car","CZ":"Ferrari J50 Preorder Car z roku 2017","DE":"2017er Ferrari J50 Preorder Car","DK":"2017 Ferrari J50-forudbestillingsbil","EL":"Ferrari J50 Preorder Car του 2017","ES":"Ferrari J50 Preorder Car de 2017","FR":"Ferrari J50 2017 de précommande","GB":"2017 Ferrari J50 Pre-Order Car","IT":"Ferrari J50 2017 pre-ordine","NL":"Ferrari J50 Preorder Car uit 2017","NO":"2017 Ferrari J50 Preorder-biler","PL":"Ferrari J50 Preorder Car z 2017 roku","PT":"Carro de Pré-Encomenda Ferrari J50 de 2017","RU":"Ferrari J50 Preorder Car 2017 г.","SV":"2017 Ferrari J50 – förbeställningsbil","TR":"2017 Ferrari J50 Ön Sipariş Arabası"},
