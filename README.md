@@ -25,5 +25,12 @@
       <td>2026-10-25</td>
       <td>Based on Game data</a></td>
     </tr>
+    <tr>
+      <td>Forza Motorsport 2023</td>
+      <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fm2023">FM2023 database</a></td>
+      <td>1.0.0</td>
+      <td>2026-10-25</td>
+      <td>Based on Game data</a></td>
+    </tr>
   </tbody>
 </table>
