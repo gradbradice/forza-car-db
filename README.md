@@ -7,6 +7,7 @@
       <th>File name</th>
       <th>Version</th>
       <th>Last updated</th>
+      <th>Game Version</th>
       <th>Note</th>
     </tr>
   </thead>
@@ -16,6 +17,15 @@
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh4">FH4 database</a></td>
       <td>1.2.0</td>
       <td>2026-10-25</td>
+      <td>1.478.564.0</a></td>
+      <td>Based on Game data</a></td>
+    </tr>
+    <tr>
+      <td>Forza Horizon 5</td>
+      <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh5">FH5 database</a></td>
+      <td>1.0.0</td>
+      <td>2026-10-25</td>
+      <td>1.619.349.0</a></td>
       <td>Based on Game data</a></td>
     </tr>
     <tr>
@@ -23,6 +33,7 @@
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh6">FH6 database</a></td>
       <td>1.6.0</td>
       <td>2026-10-25</td>
+      <td>6.461.691.0</a></td>
       <td>Based on Game data</a></td>
     </tr>
     <tr>
@@ -30,6 +41,7 @@
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fm2023">FM2023 database</a></td>
       <td>1.0.0</td>
       <td>2026-10-25</td>
+      <td>1.859.7102.0</a></td>
       <td>Based on Game data</a></td>
     </tr>
   </tbody>
