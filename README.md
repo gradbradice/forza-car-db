@@ -24,7 +24,7 @@
       <td>Forza Horizon 5</td>
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh5">FH5 database</a></td>
       <td>1.0.0</td>
-      <td>2026-10-25</td>
+      <td>2026-10-27</td>
       <td>1.619.349.0</a></td>
       <td>Based on Game data</a></td>
     </tr>
