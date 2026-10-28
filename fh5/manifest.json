@@ -1,0 +1,39 @@
+{
+  "format": "forzatoolkit-car-data-manifest/1",
+  "game": "fh5",
+  "signed": "2026-10-28T14:20:30Z",
+  "files": {
+    "cars.json": {
+      "sha256": "77e810caa243df1736091d0865273a7166ee2cb4821c36f6493694008afdd859",
+      "size": 168431
+    },
+    "wheels.json": {
+      "sha256": "15ba5f5898461822a1142b18665c621e16c3ce00a9db6a050983f724a8655f97",
+      "size": 150804
+    },
+    "strings.json": {
+      "sha256": "8de9e1c48add8d6186341b11c4048f8dc18fa911d84507f4720210f6824d8ebc",
+      "size": 55210
+    },
+    "car-names.json": {
+      "sha256": "1181c1d82ab2cf8d35a3380089381e709e4acd9985e18a393c16522a43ace249",
+      "size": 40922
+    },
+    "livery-materials.json": {
+      "sha256": "08e5807407e610204214ba4416fc4ff67f9a276dc9355b5ebf0eea4d7554a335",
+      "size": 33538
+    },
+    "livery-shapes.json": {
+      "sha256": "ffe878459201010888df91b0295ab1e88db2cffc881c3a519ede21e92aca4890",
+      "size": 12462
+    },
+    "factory-colors.json": {
+      "sha256": "32ccbced6d91c6d159be4f0b8c3b2e73a2be19d15076208ea31e338797ae4191",
+      "size": 868035
+    },
+    "livery-layouts.json": {
+      "sha256": "4387c9729454a8a93f396c6eb016f4698531e98d550b609ad87febb826e5a659",
+      "size": 187377
+    }
+  }
+}
