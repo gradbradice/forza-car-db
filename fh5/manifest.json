@@ -1,7 +1,7 @@
 {
   "format": "forzatoolkit-car-data-manifest/1",
   "game": "fh5",
-  "signed": "2026-10-30T08:19:02Z",
+  "signed": "2026-10-30T09:57:43Z",
   "files": {
     "cars.json": {
       "sha256": "77e810caa243df1736091d0865273a7166ee2cb4821c36f6493694008afdd859",
@@ -36,8 +36,8 @@
       "size": 187377
     },
     "car-upgrades.json": {
-      "sha256": "c940279bf85d8472d1f4d3e2b70c33cb647a3d7a82a63f8ac210bfd09663d901",
-      "size": 320384
+      "sha256": "561c0cd91f6a9e3c8a35fbe331705fb43de3fa0928696347ad5b55b908a597b1",
+      "size": 335426
     }
   }
 }
