@@ -1,43 +1,47 @@
 {
   "format": "forzatoolkit-car-data-manifest/1",
   "game": "fh6",
-  "signed": "2026-10-30T09:59:13Z",
+  "signed": "2026-11-04T17:15:51Z",
   "files": {
     "cars.json": {
-      "sha256": "84a501c11d4b2ecd58530c634cba13aa479a81ef7f75542797604fc71150e494",
-      "size": 143406
+      "sha256": "9659ea8ed97ae41b53a8f34336ed25844fbdd768162cea90bb8a943d35004e9c",
+      "size": 145270
     },
     "wheels.json": {
-      "sha256": "53579f9c8bf869d8ef3ec9ff035d66947a43495e57410d164196da4a14e2207a",
-      "size": 128722
+      "sha256": "5a3767a5abee8d4151998e0321a644e51f245db9ac77190852c023f6966ccd94",
+      "size": 130412
     },
     "strings.json": {
-      "sha256": "8c25cd827bb341ae894b74dc17e703650af58143e002e3a251f685dfdd80cbbd",
-      "size": 34209
+      "sha256": "3e662a1950b5496767157d6cd7321e002bab076b92d09a3ce4120260227bc0d5",
+      "size": 34281
     },
     "car-names.json": {
-      "sha256": "9d30eeee8ebbdade891fb98e042899e8a187f6c7cfe4a7c9bd3585648496780c",
-      "size": 30056
+      "sha256": "5ec3d7731eccf142bae8c2752c6443774b03198e54999ba2f3e2a89f65236f02",
+      "size": 30031
     },
     "livery-materials.json": {
       "sha256": "fa717dec69357929150a81b11abb56dcd0aa977e20d296379065698b60123756",
       "size": 31360
     },
     "livery-shapes.json": {
-      "sha256": "6bdfe71e81fbfa30b6809c3beb2b7bf24a6e249528f7e8c9a218419f4f8dacbf",
-      "size": 14051
+      "sha256": "47cb25ff021e768a136022a0a4b56acdb2f09fc9f837bce623f7e6432b363365",
+      "size": 14080
+    },
+    "livery-shape-names.json": {
+      "sha256": "421ed11188c33934bfebc8cd24de33cf34b9304db2e6b369ac7ae59e52487093",
+      "size": 69668
     },
     "factory-colors.json": {
-      "sha256": "ff780f3d110af781c5446cd65ac3935af4e8aa08571514807d78bc7a91e8db3d",
-      "size": 1080835
+      "sha256": "16a68242e271cd8089e8158fd2d3b4229846b6c28be41f657be81b0bf3efafdc",
+      "size": 1101507
     },
     "livery-layouts.json": {
-      "sha256": "ccd0ce28275cdb563f7f20fa8f6c2623c87b88a0ae08c0e2bd38407d1fe353b9",
-      "size": 253533
+      "sha256": "2dda2b7eb9cbb8e71b216a8fa7652c405f42d3838e752e403ed13e97dfac5048",
+      "size": 256970
     },
     "car-upgrades.json": {
-      "sha256": "726ffca223a6ad2e1bb9db8ccc0f8e639480853aa8e082ade54d8e35f1de0b51",
-      "size": 325230
+      "sha256": "036bb3de2583b8bc4dd3c76858915cebec13e823366afc90a710236651ea2cb8",
+      "size": 329231
     }
   }
 }

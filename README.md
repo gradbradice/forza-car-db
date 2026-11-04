@@ -39,9 +39,9 @@
     <tr>
       <td>Forza Horizon 6</td>
       <td><a href="https://github.com/gradbradice/forza-car-id/blob/main/fh6">FH6 database</a></td>
-      <td>1.8.1</td>
-      <td>2026-10-30</td>
-      <td>6.461.691.0</a></td>
+      <td>1.9.0</td>
+      <td>2026-11-05</td>
+      <td>6.479.874.0</a></td>
       <td>Based on Game data</a></td>
     </tr>
     <tr>
