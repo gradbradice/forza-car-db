@@ -385,6 +385,19 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E9E9E5","material":"biancofuji_special_fer"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9D9CA","material":"biancoavus_solid_fer"}]}
     ]},
+    {"id":335,"media":"LOT_Esprit_02","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BA0015","material":"calypsored_solid_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#540A18","material":"velvetred_pearl_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CE7C2B","material":"burntorange_met_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D19D00","material":"solidyellow_solid_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#007C59","material":"britishracinggreen_met_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0B3C99","material":"persianblue_met_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#351533","material":"deeppurplemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#252526","material":"black_met_lot_material"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A3A299","material":"stormtitanium_met_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A2A4A3","material":"arcticsilver_met_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DADAD4","material":"monacowhite_solid_lot"}]}
+    ]},
     {"id":336,"media":"JAG_Etype_61","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AA1704","material":"photonred_solid_jlr"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6C1F2C","material":"claret"}]},
@@ -454,6 +467,11 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#15171B","material":"black_solid_for"},{"parts":["Slot1"],"rgb":"#BCC0C0","material":"quicksilvermet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BCC0C0","material":"quicksilvermet"},{"parts":["Slot1"],"rgb":"#15171B","material":"black_solid_for"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F0F0F0","material":"centennialwhite"},{"parts":["Slot1"],"rgb":"#072645","material":"midnightbluemet"}]}
+    ]},
+    {"id":349,"media":"MIT_FTO_98","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C1080B","material":"aztecred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"AlpineWhite"}]}
     ]},
     {"id":353,"media":"VW_GolfGTi16vMk2_92","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9D0006","material":"tornadored_vw"}]},
@@ -1025,6 +1043,20 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#575F67","material":"cybergreymetallic"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D5D9D8","material":"bladesilvermetallic"}]}
     ]},
+    {"id":1081,"media":"AST_DBS_09","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#83848C","material":"casinoroyale_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#96232C","material":"torored_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D3CD04","material":"sunburstyellow_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#003130","material":"emeraldgreen_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#030405","material":"jetblack_solid_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1B1B19","material":"onyxblack_solid_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9DA3AB","material":"skyfallsilver_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#949591","material":"tungstensilver_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9D9D9D","material":"titaniumsilver_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#51514F","material":"quantumsilver_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#999994","material":"morningfrostwhite_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DADADA","material":"lunarwhite_solid_ast"}]}
+    ]},
     {"id":1086,"media":"FOR_FocusRS_09","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7BD04C","material":"ultimategreen"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#17256F","material":"performance blue_met_for"}]},
@@ -1152,6 +1184,26 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F3FFFF","material":"silverstone2_met_bmw"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#979C9F","material":"spacegrey_met_bmw"}]}
     ]},
+    {"id":1130,"media":"MCL_MP412C_11","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E84005","material":"volcanoorange"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FD8704","material":"mclarenorange"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2D5A55","material":"racinggreenmcl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F4BC8","material":"CobaltBlue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F2A54","material":"bluemcl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8C0E0E","material":"mercuryred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D70E0E","material":"volcanored"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0F0F","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#05050F","material":"sapphireblackmcl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#140505","material":"fireblack"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7A7A7D","material":"graphitegrey"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BFBCBD","material":"titaniumsilvermcl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CECFD2","material":"standardsilvermcl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E1","material":"pearlwhitemcl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F5F5F5","material":"FrozenWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C8C8C8","material":"chromemirror"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#19191B","material":"neronemesis"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#000000","material":"carbonfiber_001"}]}
+    ]},
     {"id":1131,"media":"FER_F142_10","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9A050C","material":"rossocorsa_solid_fer"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B50608","material":"rossoscuderia_solid_fer"}]},
@@ -1222,6 +1274,12 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#696F73","material":"daytonagrey_pearl_aud"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BCC6C9","material":"monzasilver_met_aud"}]}
     ]},
+    {"id":1187,"media":"LOT_2Eleven_09","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#252526","material":"black_met_lot_material"},{"parts":["Slot1"],"rgb":"#C8CACD","material":"lot_2eleven_yellowsilver"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CE7C2B","material":"burntorange_met_lot"},{"parts":["Slot1"],"rgb":"#080808","material":"lot_2eleven_blacksilver"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D2A724","material":"3elevenyellow_met_lot"},{"parts":["Slot1"],"rgb":"#080808","material":"lot_2eleven_blacksilver"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#007C59","material":"britishracinggreen_met_lot"},{"parts":["Slot1"],"rgb":"#F9F223","material":"lot_2eleven_yellowsilver"}]}
+    ]},
     {"id":1202,"media":"MER_SLSAMG_11","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D20E1A","material":"amglemansred"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#122D55","material":"marianablue"}]},
@@ -1286,6 +1344,16 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A3F15F","material":"vipergreenmetvw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C9CACC","material":"arctissilvermet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]}
+    ]},
+    {"id":1248,"media":"ROS_Q1_10","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#980405","material":"monzaredhon"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1E45A3","material":"porcelainbluemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#18802A","material":"tropicanagreenmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EAF849","material":"curiousyellow"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B84604","material":"orangenoble"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1A1A1A","material":"starlightblackmet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B5B9BD","material":"silver55mercedes"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C5C8CA","material":"suzukagreymetallic2"}]}
     ]},
     {"id":1253,"media":"NOB_M600_10","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#62A5D6","material":"babybluenoble"}]},
@@ -1386,6 +1454,12 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C9CCCA","material":"voguesilvermet"}]}
     ]},
+    {"id":1275,"media":"KOE_CCX_06","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7D807D","material":"anthracitemetmb"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#013785","material":"blucaelummetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A80116","material":"98ferrari333spred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]}
+    ]},
     {"id":1276,"media":"PON_FirebirdTransAm_77","colors":[
       {"groups":[{"parts":["Slot1"],"rgb":"#C3994C","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#C3994F","material":"carpaint_livery"},{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]}
     ]},
@@ -1460,6 +1534,21 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"raptorgrey"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1C6AF","material":"citrusyellowmet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D8C7CD","material":"missionbeige"}]}
+    ]},
+    {"id":1290,"media":"BMW_M635CSi_84","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#222527","material":"blacksapphire_met_bmw"},{"parts":["Slot1"],"rgb":"#222527","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D10104","material":"RossoCorsa"},{"parts":["Slot1"],"rgb":"#D10104","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3A0E20","material":"burgundyredmetallic"},{"parts":["Slot1"],"rgb":"#3A0E20","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3D3935","material":"sablebrownmetallic"},{"parts":["Slot1"],"rgb":"#3D3935","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#081F1E","material":"malachitegreenmetallic"},{"parts":["Slot1"],"rgb":"#081F1E","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1C79B2","material":"estorilblue2_met_bmw"},{"parts":["Slot1"],"rgb":"#1C79B2","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#07254C","material":"royalbluemetallic"},{"parts":["Slot1"],"rgb":"#07254C","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#010A24","material":"lapisblue"},{"parts":["Slot1"],"rgb":"#010A24","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"diamondblackmetallic"},{"parts":["Slot1"],"rgb":"#131415","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2D3234","material":"delphinmetallic"},{"parts":["Slot1"],"rgb":"#2D3234","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8A8C8F","material":"grigioff"},{"parts":["Slot1"],"rgb":"#8A8C8F","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9E9A94","material":"bronzitmetallic"},{"parts":["Slot1"],"rgb":"#9E9A94","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"alpinewhite_solid_bmw"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"carpaint_livery"}]}
     ]},
     {"id":1291,"media":"CHE_ElCaminoSS_70","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B50812","material":"cranberryred"},{"parts":["Slot1"],"rgb":"#080808","material":"black"}]},
@@ -1544,6 +1633,25 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7B7D83","material":"grigioalfieri_met_mas"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#868682","material":"grigionuvolari_met_mas"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A0A0A3","material":"grigiotouring_met_mas"}]}
+    ]},
+    {"id":1309,"media":"PON_GTOJudge_69","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F04C00","material":"carouselred"},{"parts":["Slot1"],"rgb":"#101011","material":"pon_gto_yrblack_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D60F1E","material":"matadorred"},{"parts":["Slot1"],"rgb":"#1D1E20","material":"pon_gto_wrblack_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5B4631","material":"expressobrown"},{"parts":["Slot1"],"rgb":"#0F53BA","material":"pon_gto_wyolive_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D5BE76","material":"antiquegoldmet"},{"parts":["Slot1"],"rgb":"#19191A","material":"pon_gto_wrblack_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D4B348","material":"goldenrodyellow"},{"parts":["Slot1"],"rgb":"#0F53BA","material":"pon_gto_wyolive_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D4D1B2","material":"mayfairmaize"},{"parts":["Slot1"],"rgb":"#0F53BA","material":"pon_gto_wyolive_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#88A374","material":"limelightgreenmet"},{"parts":["Slot1"],"rgb":"#0F53BA","material":"pon_gto_wyolive_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#416423","material":"verorogreenmet"},{"parts":["Slot1"],"rgb":"#0F53BA","material":"pon_gto_wyolive_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0E3B20","material":"ForestGreen"},{"parts":["Slot1"],"rgb":"#0F53BA","material":"pon_gto_wyolive_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#74ADC2","material":"crystalturquoisemet"},{"parts":["Slot1"],"rgb":"#1C1D1E","material":"pon_gto_yrblue_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#94B0D5","material":"warwickbluemet"},{"parts":["Slot1"],"rgb":"#0E0F0F","material":"pon_gto_yrblue_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#4785B0","material":"windwardbluemet"},{"parts":["Slot1"],"rgb":"#161718","material":"pon_gto_yrblue_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1F65A7","material":"libertyblue met"},{"parts":["Slot1"],"rgb":"#151616","material":"pon_gto_yrblue_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"},{"parts":["Slot1"],"rgb":"#0C0C0D","material":"pon_gto_yrblue_w"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#979CA4","material":"palladiumsilvermetallic"},{"parts":["Slot1"],"rgb":"#151616","material":"pon_gto_yrblue_b"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D0CAC4","material":"champagemetpon"},{"parts":["Slot1"],"rgb":"#101011","material":"pon_gto_wrblack_b"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1D1D1","material":"white"},{"parts":["Slot1"],"rgb":"#151616","material":"pon_gto_wrblack_b"}]}
     ]},
     {"id":1314,"media":"MCL_F1_93","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FE5900","material":"azores_met_mcl"}]},
@@ -1654,6 +1762,26 @@
     {"id":1332,"media":"DOD_Dart_68","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#919BA5","material":"greyprimer"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#19191B","material":"NeroNemesis"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#080808","material":"black"},{"parts":["Slot16"],"rgb":"#080808","material":"Black"}]}
     ]},
+    {"id":1334,"media":"LOT_EspritTurbo_80","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D60F1E","material":"flamered"},{"parts":["Slot1"],"rgb":"#FF0000","material":"plastic_smooth"},{"parts":["Slot20"],"rgb":"#000000","material":"plastic_mgl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E4EAEB","material":"white72nissan"},{"parts":["Slot1"],"rgb":"#FF0000","material":"plastic_smooth"},{"parts":["Slot20"],"rgb":"#000000","material":"plastic_mgl"}]}
+    ]},
+    {"id":1338,"media":"PON_Firebird_68","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#162859","material":"aiserubluepearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#557388","material":"blue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F53BA","material":"agerastripe"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A3947A","material":"champagne"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FE450A","material":"chameleonorange"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FAF5E6","material":"ivorytricoatpearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#510622","material":"brickyardmet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CCCCA0","material":"mayfairmaize65gto"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1A7F85","material":"tealturquoise"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#566061","material":"mysticgreenss"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#ADADA0","material":"wheatbeigemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BC0112","material":"britered"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C6C6C6","material":"polarsilvermet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#738F52","material":"green"}]}
+    ]},
     {"id":1345,"media":"HUM_H1Alpha_06","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#17181A","material":"blackmetallichummer"}]},
@@ -1703,6 +1831,23 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"},{"parts":["Slot1"],"rgb":"#FFFFFF","material":"dod_superbee_livery_002"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E9E0B5","material":"creamdodge"},{"parts":["Slot1"],"rgb":"#000000","material":"dod_superbee_livery_001"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"white"},{"parts":["Slot1"],"rgb":"#000000","material":"dod_superbee_livery_001"}]}
+    ]},
+    {"id":1354,"media":"CHE_NovaSS_66","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2E8C81","material":"tropicturquoise"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6DAFB7","material":"artesianturquoise"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BF041A","material":"AztecRed"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#840F21","material":"BlackCherry"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#932825","material":"corvettebronzepoly"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A9997C","material":"MetallicMojaveSand"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C6B7A3","material":"cameobeige"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D6D5A9","material":"lemonwoodyellow"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8DA799","material":"willowgreenpoly"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#90BAE0","material":"mistblue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5293D0","material":"marinabluemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#182C54","material":"AstralBlueMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0A0A","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CDCECE","material":"chateauslate"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EBEBEB","material":"erminewhite"}]}
     ]},
     {"id":1355,"media":"FOR_Mustang_65","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DADAC8","material":"wimbledon white_solid_for"},{"parts":["Slot1"],"rgb":"#0470B7","material":"guardsmanblue"}]},
@@ -1820,6 +1965,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#222527","material":"blacksapphire_met_bmw"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D2D3CE","material":"alpinewhite_solid_bmw"}]}
     ]},
+    {"id":1386,"media":"AST_DBR1_58","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#14271F","material":"britishracinggreen_solid_ast"},{"parts":["Slot1"],"rgb":"#DADADA","material":"lunarwhite_solid_ast"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#14271F","material":"britishracinggreen_solid_ast"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#14271F","material":"britishracinggreen_solid_ast"}]}
+    ]},
     {"id":1387,"media":"VOL_850_97","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D60F1E","material":"flamered"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
@@ -1915,6 +2063,10 @@
     ]},
     {"id":1426,"media":"MAZ_RX8R3_11","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#990401","material":"velocityredmica"}]}
+    ]},
+    {"id":1427,"media":"PAG_Huayra_12","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9E0404","material":"huayraredmetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#9E0404","material":"carbonfiber_005"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C3B7B5","material":"huayrasilvermatte"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#C3B7B5","material":"huayrasilvermatte"}]}
     ]},
     {"id":1428,"media":"VW_SciroccoR_11","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DADADA","material":"candywhite_vw"}]},
@@ -2033,6 +2185,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#88898C","material":"mattegreymer"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B0B5B8","material":"iridiumsilver"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EBEBEB","material":"whitemetallic"}]}
+    ]},
+    {"id":1510,"media":"FOR_Mustang_95","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFFF","material":"white platinum_met_for"}]}
     ]},
     {"id":1517,"media":"TOY_CelicaST185_90","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CC0523","material":"superredii"},{"parts":["Slot1"],"rgb":"#CC0523","material":"carpaint_livery"}]},
@@ -2241,6 +2396,37 @@
     {"id":1583,"media":"LAM_AventadorJ_12","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B20006","material":"rossoefesto_met_lam"}]}
     ]},
+    {"id":1585,"media":"LAN_Fulvia_68","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AF050F","material":"VelocityRedMica"},{"parts":["Slot1"],"rgb":"#FDDE0A","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AF050F","material":"VelocityRedMica"},{"parts":["Slot1"],"rgb":"#AF050F","material":"nostripe"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E66814","material":"orangef1"},{"parts":["Slot1"],"rgb":"#FDDE0A","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E66814","material":"orangef1"},{"parts":["Slot1"],"rgb":"#E66814","material":"nostripe"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#058AF7","material":"peugeotlightblue"},{"parts":["Slot1"],"rgb":"#FDDE0A","material":"carpaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#058AF7","material":"peugeotlightblue"},{"parts":["Slot1"],"rgb":"#058AF7","material":"nostripe"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"nostripe"}]}
+    ]},
+    {"id":1586,"media":"LIN_Continental_62","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#59232F","material":"bourdeauxpontevecchiometallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#91020F","material":"infraredmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#26211A","material":"rootbeer"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#907C73","material":"rosegold"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C8B6A0","material":"sedonabeigemetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C5BDAD","material":"moonshinepearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1C6AF","material":"citrusyellowmet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#496761","material":"turquoise63vw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#465E40","material":"ambersherwoodmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3B7891","material":"tahoeturquoise"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#4F8194","material":"aquamarineblue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1E2443","material":"plasmabluepearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F53BA","material":"agerastripe"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#84ACC9","material":"lightbluemb"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A0BBCF","material":"lightbluemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#64747C","material":"winchestergraymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#91A5C0","material":"skybluemetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F3E3D5","material":"desertsilver"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E0DFD3","material":"whitemb"}]}
+    ]},
     {"id":1591,"media":"PEU_205T16_84","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#676869","material":"sharkgrey_met_peu"},{"parts":["Slot1"],"rgb":"#9B0000","material":"adenred_solid_peu"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#9B0000","material":"adenred_solid_peu"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#252728","material":"obsidienblack_met_peu"},{"parts":["Slot1"],"rgb":"#9B0000","material":"adenred_solid_peu"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#9B0000","material":"adenred_solid_peu"}]},
@@ -2288,6 +2474,36 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#575A5D","material":"florettsilver_met_aud"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C5C9CA","material":"suzukagrey_met_aud"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F2F3EF","material":"ibiswhite_solid_aud"}]}
+    ]},
+    {"id":1615,"media":"FIA_DinoCoupe_69","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E7E8E3","material":"satinwhitepearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AB0000","material":"abarthredclassic_solid_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C00000","material":"costabrava1972red_solid_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6A5541","material":"mediumbrownmet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D7CEAB","material":"mediumbeige"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A3947A","material":"champagne"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D6C14E","material":"modenayellow_met_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#165855","material":"pologreenpearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#679FC2","material":"albablue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1166AB","material":"bluebaseaudi"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#071734","material":"serabusblue_met_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1B1C1F","material":"scorpioneblack_met_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#929292","material":"portogallo1974grey_met_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A1A6A6","material":"rivagrey_met_fia"}]}
+    ]},
+    {"id":1619,"media":"MER_280SL_67","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BDC1C1","material":"moonbeam"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9F051C","material":"winered"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5B4631","material":"expressobrown"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DCBA83","material":"beigemetmb"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CBC1B4","material":"beigegrey"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#104836","material":"britishracinggreenmetlot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2F473B","material":"junpiergreenmet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AFEAF9","material":"brightbleumiura"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#326081","material":"horizonblue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#83888D","material":"nardogrey"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"ctr2white"}]}
     ]},
     {"id":1627,"media":"MER_G65AMG_13","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B0B5B8","material":"iridiumsilver"}]},
@@ -2514,6 +2730,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8E9194","material":"platinegrey"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1D9D9","material":"glacierwhite_solid_ren"}]}
     ]},
+    {"id":2023,"media":"VOL_C30Polestar_13","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#225DB2","material":"pantone3005c"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#225DB2","material":"pantone3005c"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#225DB2","material":"metal_smooth"}]}
+    ]},
     {"id":2034,"media":"FER_LaFerrari_13","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9A050C","material":"rossocorsa_solid_fer"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#05070A","material":"nerods1250_solid_fer"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#05070A","material":"carbonfiber_001"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9B700","material":"giallomodena_solid_fer"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#05070A","material":"nerods1250_solid_fer"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#05070A","material":"carbonfiber_001"}]},
@@ -2589,6 +2808,9 @@
     ]},
     {"id":2128,"media":"CAD_XTSLimo_13","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]}
+    ]},
+    {"id":2130,"media":"CHE_ProStockCamaro_13","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#151B6F","material":"che_prostockcamaro_13_baselivery"},{"parts":["Slot1"],"rgb":"#E32526","material":"carpaint_livery"}]}
     ]},
     {"id":2131,"media":"HOL_HSVGTS_14","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#351533","material":"deeppurplemet"}]},
@@ -2974,6 +3196,14 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BC0112","material":"britered"},{"parts":["Slot21"],"rgb":"#BC0112","material":"chromesatin"},{"parts":["Slot22"],"rgb":"#BC0112","material":"chrometrim"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#BC0112","material":"AlpineWhite"},{"parts":["Slot1"],"rgb":"#DADAE4","material":"carpaint_livery"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D7C0A2","material":"buckskin_beige"},{"parts":["Slot1"],"rgb":"#D4A25F","material":"carpaint_livery"},{"parts":["Slot21"],"rgb":"#D7C0A2","material":"goldsatin"},{"parts":["Slot22"],"rgb":"#D7C0A2","material":"goldtrim"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#D7C0A2","material":"buckskin_beige"}]}
     ]},
+    {"id":2217,"media":"SUB_SVX_96","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AA0A0A","material":"garnetred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#114A36","material":"britishracinggreenjag"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#063332","material":"green_iconic_3"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0955A8","material":"blucalifornia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3E0A0F","material":"maroon"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0F16","material":"tuxedoblackmetallic"}]}
+    ]},
     {"id":2235,"media":"JAG_XKRSGT_15","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9DEDB","material":"fujipolaris_solid_jlr"},{"parts":["Slot1"],"rgb":"#7B7D7F","material":"corrisammonite_met_jlr"},{"parts":["Slot20"],"rgb":"#7B7D7F","material":"corrisammonite_met_jlr"}]}
     ]},
@@ -3138,6 +3368,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CCCDCB","material":"oxford white_solid_for"},{"parts":["Slot20"],"rgb":"#CCCDCB","material":"galaxybluesilica"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A4CD0","material":"black_solid_for"},{"parts":["Slot1"],"rgb":"#B10004","material":"marsred"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#090B0E","material":"shadow black_met_for"},{"parts":["Slot20"],"rgb":"#090B0E","material":"white platinum_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#FFFFFF","material":"black_solid_for"},{"parts":["Slot1"],"rgb":"#B10004","material":"marsred"}]}
     ]},
+    {"id":2405,"media":"lot_340r_00","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BEBAB2","material":"elisegrey_met_lot_material"}]}
+    ]},
     {"id":2412,"media":"bmw_isetta_62","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E83D0C","material":"competitionorange"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E0DFD3","material":"whitemb"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E83D0C","material":"competitionorange"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#D7CEAB","material":"mediumbeige"}]},
@@ -3205,6 +3438,17 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7B7878","material":"scintillasilver"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9D6CB","material":"oldenglishwhite"}]}
     ]},
+    {"id":2428,"media":"WM_LykanHyperSport_16","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8C0E0E","material":"royalred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#950622","material":"bostonredmet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F04405","material":"orangemetallicgt86"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5293D0","material":"marinabluemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#055AB3","material":"wrbluemica"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"alpinewhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C5BDAD","material":"moonshinepearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#595758","material":"sharkgrey"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]}
+    ]},
     {"id":2430,"media":"ARI_Nomad_16","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D3642B","material":"tangerine_solid_ariel"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#D3642B","material":"tangerine_solid_ariel"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D3642B","material":"tangerine_solid_ariel"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#040404","material":"jetblack"}]},
@@ -3231,6 +3475,14 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#565854","material":"doningtongrey_met_bmw"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#020E19","material":"carbonblack_met_bmw"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#141618","material":"azuriteblack_met_bmw"}]}
+    ]},
+    {"id":2432,"media":"CIT_DS23_75","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A67D67","material":"cognacmetallic_porsche"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#A67D67","material":"cognacmetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#86AA8C","material":"vertargente"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"alpinewhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#298CD3","material":"medblueren"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"alpinewhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"AlpineWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A4ACB2","material":"platinummetallic97lexus"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#A4ACB2","material":"platinummetallic97lexus"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E1E1E1","material":"cirruswhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E1E1E1","material":"cirruswhite"}]}
     ]},
     {"id":2437,"media":"INF_Q60_16","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9B9C9D","material":"brilliantsilver_met_nis"}]}
@@ -3340,6 +3592,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#383368","material":"purple_met_zen"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#95BE54","material":"limegreen_met_zen"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#840A17","material":"deepred_met_zen"}]}
+    ]},
+    {"id":2475,"media":"GTA_Spano_16","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FB4103","material":"viperveryorangepearl"}]}
     ]},
     {"id":2477,"media":"bmw_m2_16","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#008DA1","material":"longbeachblue_met_bmw"}]},
@@ -3593,6 +3848,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#686767","material":"vesuviogrey_met_alf"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9C9F9D","material":"silverstonegrey_met_alf"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DADADA","material":"alfawhite_solid_alf"}]}
+    ]},
+    {"id":2543,"media":"FOR_55_GTLM_16","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#256BCE","material":"for_55_gtlm_16_baselivery"},{"parts":["Slot1"],"rgb":"#FFFFFF","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#D20000","material":"sticker"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#D20000","material":"windshieldbanner_base"}]}
     ]},
     {"id":2544,"media":"DOD_ViperACR_16","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"white"},{"parts":["Slot1"],"rgb":"#FF0000","material":"dod_viperacr_16_livery_001"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#000000","material":"dod_viperacr_16_livery_001"}]},
@@ -3951,6 +4209,11 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#15171B","material":"black_solid_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#15171B","material":"black_solid_for"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#15171B","material":"black_solid_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#DADADA","material":"performance white_met_for"}]}
     ]},
+    {"id":2652,"media":"MIT_PajeroEvo_97","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A80116","material":"98Ferrari333SPRed"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E9F0EC","material":"Silver"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E4E5E7","material":"ArcticWhite"},{"parts":["Slot1"],"rgb":"#E85D12","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#E4E5E7","material":"chrome"}]}
+    ]},
     {"id":2654,"media":"MER_AMGGTR_17","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2EB416","material":"greenhellmagno"}]}
     ]},
@@ -4206,6 +4469,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#87000E","material":"carminered_por"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#040405","material":"black_por"}]}
     ]},
+    {"id":2775,"media":"POR_911_RSR_17","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CCCCCC","material":"POR_911_RSR_17_baseLivery"},{"parts":["Slot1"],"rgb":"#323232","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#EF1717","material":"carPaint_livery"}]}
+    ]},
     {"id":2792,"media":"FOR_2_GT40_66","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#15171B","material":"black_solid_for"},{"parts":["Slot1"],"rgb":"#15171B","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#A19D9C","material":"silver_met_for"}]}
     ]},
@@ -4436,6 +4702,16 @@
     {"id":2964,"media":"MRS_Minor_HE_53","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#116245","material":"racinggreenlotus"},{"parts":["Slot1"],"rgb":"#DFDFDF","material":"carliverywithnormal"}]}
     ]},
+    {"id":2968,"media":"AST_Valkyrie_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#94C392","material":"appletreegreen"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#94C392","material":"appletreegreen"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_custom"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D4D4D5","material":"AlubeamSilver"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#F5690A","material":"AtomicOrangeMetallic"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#F5690A","material":"atomicorangemetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1E1E1E","material":"carbonFiber_custom"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1E1E1E","material":"carbonFiber_custom_b"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_custom"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#024C57","material":"DarkTeal"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#024C57","material":"DarkTeal"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_custom"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#615F5F","material":"anthrecite_001"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#615F5F","material":"anthrecite_001"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_custom"}]}
+    ]},
+    {"id":2972,"media":"FER_62_488GTE_18","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D60001","material":"rossocorsa_solid_fer"},{"parts":["Slot1"],"rgb":"#F4F4F4","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#E0E0E0","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E0E0E0","material":"carPaint_livery"}]}
+    ]},
     {"id":2973,"media":"REN_AlpineA110_17","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#126CC0","material":"acapulcoblue"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"satinblackmetallic_porsche"}]},
@@ -4581,6 +4857,14 @@
     {"id":3007,"media":"VW_34_BeetleGRC_17","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#000000","material":"vw_34_beetlegrc_17_baselivery"},{"parts":["Slot1"],"rgb":"#FFD600","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#FFD600","material":"windshieldbanner_updated"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#000000","material":"windshieldbanner_base"}]}
     ]},
+    {"id":3020,"media":"VW_Thing_73","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF5A0A","material":"pumpkinorange"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FAC202","material":"sunburstyellow2"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E0DFD3","material":"whitemb"}]}
+    ]},
+    {"id":3021,"media":"POR_906_66","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D4D8D4","material":"white_por"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#6A6C70","material":"altogrey"},{"parts":["Slot1"],"rgb":"#6A6C70","material":"carpaint_livery"}]}
+    ]},
     {"id":3026,"media":"MER_SSK_29","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EEF3F8","material":"alpinewhiteew1"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#57121E","material":"red"}]},
@@ -4623,6 +4907,9 @@
     {"id":3055,"media":"JAG_CX75_10","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A82F1F","material":"chile_met_jlr"}]}
     ]},
+    {"id":3062,"media":"FER_512S_70","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9A050C","material":"rossocorsa_solid_fer"}]}
+    ]},
     {"id":3063,"media":"MER_XClass_18","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C9CACC","material":"arctissilvermet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CC1418","material":"absolutelyred"}]},
@@ -4664,6 +4951,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#92928D","material":"crayon_por"},{"parts":["Slot1"],"rgb":"#080808","material":"black"},{"parts":["Slot18"],"rgb":"#151515","material":"paint_matteblack"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFFF","material":"white_por"},{"parts":["Slot1"],"rgb":"#080808","material":"black"},{"parts":["Slot18"],"rgb":"#151515","material":"paint_matteblack"}]}
     ]},
+    {"id":3073,"media":"BMW_24_M8_18","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFFF","material":"bmw_24_m8_98_baselivery"},{"parts":["Slot1"],"rgb":"#0700FF","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#0091FF","material":"windshieldbanner"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#FF0000","material":"windshieldbanner_base"}]}
+    ]},
     {"id":3074,"media":"POR_MacanTurbo_19","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#111218","material":"deepblack_met_por"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#36201B","material":"mahogany_met_por"}]},
@@ -4677,6 +4967,12 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E1E8EB","material":"rhodiumsilver_met_por"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D8DBDB","material":"carrarawhite_met_por"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D4D8D4","material":"white_por"}]}
+    ]},
+    {"id":3078,"media":"VW_DoubleCab_61","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7A7A76","material":"dovegrey54jag"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#992210","material":"sealingwaxred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#283C58","material":"dovebluemetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CBC1AB","material":"ivorymb"}]}
     ]},
     {"id":3082,"media":"MAS_MC12Corsa_06","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0C4A91","material":"montecarloblue"},{"parts":["Slot1"],"rgb":"#FFFFFF","material":"windshieldbanner_updated"}]}
@@ -4733,6 +5029,15 @@
     ]},
     {"id":3093,"media":"FOR_25_MustangRTRFD_18","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#141414","material":"for_25_mustangrtrfd_18_baselivery"},{"parts":["Slot1"],"rgb":"#686868","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#FFFFFF","material":"windshieldbanner_updated"}]}
+    ]},
+    {"id":3094,"media":"MOR_AeroGT_19","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#ED701A","material":"darkbronzemet"}]}
+    ]},
+    {"id":3097,"media":"JAG_CType_53","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1B2279","material":"azurebluemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#114A36","material":"britishracinggreenjag"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5A5758","material":"darkgreypearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E0DFD3","material":"whitemb"}]}
     ]},
     {"id":3107,"media":"MER_G63AMG6x6_14","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
@@ -4825,6 +5130,14 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C63421","material":"lavaorange_met_por"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#87000E","material":"carminered_por"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7BC419","material":"vipersnakeskingreenpearl"}]}
+    ]},
+    {"id":3125,"media":"AST_VanquishZagato_18","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B8232A","material":"volcanored_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C86A22","material":"madagascarorange_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8F8871","material":"ardengreen_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A0BF9F","material":"appletreegreen_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#00384A","material":"ocellusteal_met_ast"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0054B2","material":"cobaltblue_met_ast"}]}
     ]},
     {"id":3126,"media":"FOR_Transit_65","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#557388","material":"blue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#557388","material":"AlpineWhite"}]},
@@ -4993,10 +5306,33 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A3A8B6","material":"orkneygreymet"},{"parts":["Slot1"],"rgb":"#757175","material":"carpaint_livery"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"frozenwhite"},{"parts":["Slot1"],"rgb":"#757175","material":"carpaint_livery"}]}
     ]},
+    {"id":3175,"media":"MER_500E_92","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C9B7AA","material":"champagnebeigeford"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#ACA894","material":"silversand"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"blackpearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#5F6062","material":"lagunagraypoly"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2D3D64","material":"blunettunometallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#505C66","material":"gunmetalmetpon"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#840F21","material":"blackcherry"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#611215","material":"calypsoredmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#404245","material":"gumetalrolls"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#5F6062","material":"lagunagraypoly"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#305C51","material":"britishracinggreen"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#496761","material":"turquoise63vw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B50812","material":"cranberryred"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B50812","material":"cranberryred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AFB1B3","material":"articgreymet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#767A81","material":"arcticsilvermet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"alpinewhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"alpinewhite"}]}
+    ]},
     {"id":3176,"media":"MER_AMGHammer_87","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#082142","material":"mer_amghammer_87"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#525154","material":"darkgreymetallic"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#62605D","material":"indiumgreymetallic"}]}
+    ]},
+    {"id":3177,"media":"MER_AMGHammerW_87","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3C5C99","material":"BluCaracalla"}]}
+    ]},
+    {"id":3178,"media":"MER_E55AMGW_06","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E5E5E6","material":"galaxywhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3A0E20","material":"burgundyredmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#143A3A","material":"britishracinggreenjag2"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#233B55","material":"opalescentdarkblue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0E1961","material":"tanzitebluemet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E8EC","material":"ingotsilvermetallic"}]}
     ]},
     {"id":3180,"media":"PEU_205Rallye_91","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EEF3F8","material":"alpinewhiteew1"},{"parts":["Slot1"],"rgb":"#EEF3F8","material":"carpaint_livery"}]},
@@ -5079,6 +5415,16 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#17181A","material":"cosmosblackmet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EDEDED","material":"rae_tachyon_19_base_livery"}]}
     ]},
+    {"id":3197,"media":"MER_71_AMGGT3_18","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#595E5F","material":"mer_71_amggt3_18_baselivery"},{"parts":["Slot1"],"rgb":"#CEB420","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#FFFFFF","material":"windshieldbanner"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#000000","material":"windshieldbanner_base"}]}
+    ]},
+    {"id":3199,"media":"FOR_MustangSVT_03","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#525154","material":"DarkGreyMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0A14","material":"CarbonBlackMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#026BBA","material":"BlueFireMetallicEB5"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CA000E","material":"torch red_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#ECCA50","material":"SuperBrightYellow"}]}
+    ]},
     {"id":3201,"media":"OLD_Toronado_66","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CBC1B4","material":"beigegrey"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3A0E20","material":"burgundyredmetallic"}]},
@@ -5138,6 +5484,9 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E7E1D9","material":"biancomiuralambo"},{"parts":["Slot1"],"rgb":"#141414","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Slot1"],"rgb":"#141414","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]}
     ]},
+    {"id":3218,"media":"POR_73_911GT3R_18","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F3F3F3","material":"white_por"},{"parts":["Slot1"],"rgb":"#F3F3F3","material":"por_73_911gt3r_18_base_livery_001"}]}
+    ]},
     {"id":3225,"media":"FER_Portofino_18","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9D9CA","material":"biancoavus_solid_fer"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B7080C","material":"rossoportofino"}]},
@@ -5186,6 +5535,25 @@
     ]},
     {"id":3241,"media":"SUB_00_VT18X_18","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#015CB4","material":"ardenblue"},{"parts":["Slot20"],"rgb":"#015CB4","material":"windshieldbanner"},{"parts":["Slot1"],"rgb":"#015CB4","material":"carpaint_livery"}]}
+    ]},
+    {"id":3242,"media":"CAD_CTSVWagon_14","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#343638","material":"atlasgreymetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"BlackPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1B2279","material":"AzureBlueMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#505F6A","material":"NanoGreyMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F5F8FC","material":"RadiantSilverMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6D101F","material":"CrystalRedTintCoat"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EBEBE3","material":"WhiteDiamondTricoat"}]}
+    ]},
+    {"id":3244,"media":"PLY_Belvedere_64","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6B5534","material":"goldmetallic72volvo"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EE0F28","material":"rubyred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#02535D","material":"darkteal"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#03102C","material":"darkblue_87porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#576E8A","material":"lightbluemet83gmc"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7B7B7D","material":"urbangreymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"alpinewhite"}]}
     ]},
     {"id":3247,"media":"NIS_64_370ZFD_18","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2168FD","material":"nis_64_370zfd_18_basecolor"},{"parts":["Slot1"],"rgb":"#E1E1E1","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#FF2311","material":"windshieldbanner"}]}
@@ -5251,6 +5619,17 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#566061","material":"mysticgreenss"},{"parts":["Slot16"],"rgb":"#566061","material":"designomagnoiridiumsilver"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"white"},{"parts":["Slot16"],"rgb":"#E6E6E6","material":"carbonfiber_005"}]}
     ]},
+    {"id":3274,"media":"AST_Lagonda_90","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#021D38","material":"DarkBluePearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#114F41","material":"DarkGreen"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7F7F80","material":"GunMetalGrey"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A0BBCF","material":"LightBlueMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A80116","material":"98Ferrari333SPRed"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8C8C8E","material":"SilverVIP"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8DA681","material":"LightGreenMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EBECEB","material":"BiancoAvus"}]}
+    ]},
     {"id":3276,"media":"SAL_S1_18","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F04405","material":"orangemetallicgt86"},{"parts":["Slot16"],"rgb":"#414144","material":"grigioanthracitemet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D10F0B","material":"superred"},{"parts":["Slot16"],"rgb":"#080808","material":"black"}]},
@@ -5271,6 +5650,9 @@
     ]},
     {"id":3279,"media":"pg_flatbedtruck_stories_19","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF00FF","material":"biancoavus_solid_fer"}]}
+    ]},
+    {"id":3281,"media":"CAD_3_ATSGT3_15","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0C0000","material":"cad_3_atsgt3_15_base_livery"},{"parts":["Slot1"],"rgb":"#EAFF00","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#000000","material":"carPaint_livery"}]}
     ]},
     {"id":3284,"media":"HEN_Exorcist_19","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"Black"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"blackmatte1"},{"parts":["Slot1"],"rgb":"#CC1D21","material":"hen_exorcist_19_livery_001"},{"parts":["Slot20"],"rgb":"#080808","material":"hen_exorcist_19_livery_001"}]}
@@ -5360,6 +5742,11 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F2F3EF","material":"ibiswhite_solid_aud"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0D0D0E","material":"mythosblack_met_aud"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#991B26","material":"tangored_met_aud"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0D0D0E","material":"mythosblack_met_aud"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#696F73","material":"daytonagrey_pearl_aud"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0D0D0E","material":"mythosblack_met_aud"}]}
+    ]},
+    {"id":3360,"media":"PIN_Battista_20","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#25316B","material":"auroraflarebluepearl_met_nis"},{"parts":["Slot16"],"rgb":"#A4A6A6","material":"silverstonegrey_met_alf"},{"parts":["Slot17"],"rgb":"#6A6966","material":"agategrey_met_por"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#25316B","material":"auroraflarebluepearl_met_nis"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#020407","material":"Black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8A9093","material":"grigioestoque_met_lam"},{"parts":["Slot16"],"rgb":"#25316B","material":"auroraflarebluepearl_met_nis"},{"parts":["Slot17"],"rgb":"#25316B","material":"auroraflarebluepearl_met_nis"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#25316B","material":"auroraflarebluepearl_met_nis"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#25316B","material":"auroraflarebluepearl_met_nis"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#444647","material":"moonstonepearl_met_rol"},{"parts":["Slot16"],"rgb":"#A50004","material":"alfared_solid_alf"},{"parts":["Slot17"],"rgb":"#6A6966","material":"silverstonegrey_met_alf"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#444647","material":"moonstonepearl_met_rol"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#020407","material":"Black_solid_for"}]}
     ]},
     {"id":3364,"media":"AST_Valhalla_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FAFAED","material":"pearlwhite"}]},
@@ -5461,12 +5848,18 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#181516","material":"magnetic"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3F6042","material":"mossgreenmetmb"}]}
     ]},
+    {"id":3428,"media":"GIN_G10_19","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6B6B6B","material":"OpalescentGunmetal"},{"parts":["Slot1"],"rgb":"#6B6B6B","material":"carPaint_livery"}]}
+    ]},
     {"id":3437,"media":"MCL_GT_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3E0A0F","material":"maroon"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"blackpearl"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D25D0A","material":"signalorange_porsche_v2"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"blackpearl"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2D0570","material":"vipervioletpurple"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"blackpearl"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0C2261","material":"royalsapphirepearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"blackpearl"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#ACACAF","material":"silvergraphitemet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"blackpearl"}]}
+    ]},
+    {"id":3438,"media":"FOR_EconolineDeberti_61","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B3B3B3","material":"FOR_EconoLineDeberti_61_baselivery"},{"parts":["Slot1"],"rgb":"#808080","material":"carPaint_livery"}]}
     ]},
     {"id":3439,"media":"FOR_F250Deberti_19","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"Black"}]}
@@ -5486,6 +5879,13 @@
     {"id":3449,"media":"LOT_Evija_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A9B1B3","material":"titaniummet"}]}
     ]},
+    {"id":3453,"media":"AUD_TTRS_20","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0460AB","material":"brightbluemetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#191716","material":"mythosblack_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0EAC3E","material":"hellgrun"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#191716","material":"mythosblack_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E8E8E8","material":"glacierwhite_met_aud"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#191716","material":"mythosblack_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#191716","material":"mythosblack_met_aud"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#191716","material":"mythosblack_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#444545","material":"nardogrey_solid_aud"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#191716","material":"mythosblack_met_aud"}]}
+    ]},
     {"id":3454,"media":"AUD_RS3Sedan_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0067AE","material":"arablue_pearl_aud"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A01721","material":"redlinemet"}]},
@@ -5495,12 +5895,21 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0D0D0E","material":"mythosblack_met_aud"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#636467","material":"nardogrey_solid_aud"}]}
     ]},
+    {"id":3457,"media":"LEX_14_RCFGT3_20","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EAFF00","material":"LEX_14_RCFGT3_20_baseLivery"},{"parts":["Slot1"],"rgb":"#000000","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#000000","material":"gls_windshield_interior_banner"}]}
+    ]},
     {"id":3476,"media":"FOR_F450DRW_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#28405F","material":"indigo"},{"parts":["Slot1"],"rgb":"#28405F","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#F1F4F6","material":"chromesilvermet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#181516","material":"magnetic"},{"parts":["Slot1"],"rgb":"#181516","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#F1F4F6","material":"chromesilvermet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D80000","material":"pq_race_red_solid_for"},{"parts":["Slot1"],"rgb":"#D80000","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#F1F4F6","material":"chromesilvermet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#009DFF","material":"e7_velocity_blue_met_for"},{"parts":["Slot1"],"rgb":"#009DFF","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#F1F4F6","material":"chromesilvermet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8C8A8C","material":"darksilver"},{"parts":["Slot1"],"rgb":"#8C8A8C","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#F1F4F6","material":"chromesilvermet"}]}
+    ]},
+    {"id":3477,"media":"CHE_SilveradoLTZ71_20","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8F0E1C","material":"canyonred"},{"parts":["Slot1"],"rgb":"#8F0E1C","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5B4631","material":"BurnishBrown"},{"parts":["Slot1"],"rgb":"#5B4631","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C1080B","material":"AztecRed"},{"parts":["Slot1"],"rgb":"#C1080B","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#505C66","material":"GunmetalMetPON"},{"parts":["Slot1"],"rgb":"#505C66","material":"carPaint_livery"}]}
     ]},
     {"id":3482,"media":"MCL_765LT_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080B13","material":"abyssblack_met_mcl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"blackpearl"}]},
@@ -5583,14 +5992,24 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#888F8A","material":"ne_cactus_gray_solid_for"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B2B3B2","material":"m7_carbonized_gray_met_for"}]}
     ]},
+    {"id":3490,"media":"CHE_3_CorvetteC8R_20","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EADB1D","material":"che_3_corvettec8r_20_base_livery"},{"parts":["Slot1"],"rgb":"#000000","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#FFFFFF","material":"carpaint_livery"}]}
+    ]},
     {"id":3492,"media":"KTM_XBowGT2_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#191919","material":"carbonfiber_custom"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#191919","material":"carbonfiber_custom"}]}
     ]},
     {"id":3495,"media":"MOS_00_MT900GT3_06","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1655B9","material":"2016fordgt_blue"}]}
     ]},
+    {"id":3498,"media":"SAL_S7LM_17","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EFEFEF","material":"ArticGreyMet"},{"parts":["Slot1"],"rgb":"#DCB66E","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]}
+    ]},
     {"id":3499,"media":"SAL_SportruckXR_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#126CC0","material":"FlameBlueMet"},{"parts":["Slot1"],"rgb":"#126CC0","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#126CC0","material":"windshieldBanner"}]}
+    ]},
+    {"id":3508,"media":"CIT_BX4TC_86","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F1EDE2","material":"ChampionWhite"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#02288C","material":"99ViperBlueStripe"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0A14","material":"CarbonBlackMet"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#CC1418","material":"absolutelyred"}]}
     ]},
     {"id":3514,"media":"HOT_BoneShakerMT_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black"},{"parts":["Slot1"],"rgb":"#FF430A","material":"carpaint_livery"}]}
@@ -5680,6 +6099,9 @@
     {"id":3553,"media":"VW_Scumbug_73","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF9E00","material":"VW_Scumbug_73_basecolor"},{"parts":["Slot1"],"rgb":"#FF9E00","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#FF9E00","material":"AlbaBlue"}]}
     ]},
+    {"id":3554,"media":"MIT_1_EvoTA_05","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#000000","material":"MIT_1_EvoTA_05_livery_001"},{"parts":["Slot1"],"rgb":"#FF0000","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#FF00FF","material":"windshieldBanner"}]}
+    ]},
     {"id":3556,"media":"BMW_X5M_HE_11","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"bmw_x5m_he_11_base_livery"}]}
     ]},
@@ -5728,13 +6150,20 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C20A05","material":"tangored_met_aud"}]}
     ]},
     {"id":3584,"media":"AUD_RS7_21","colors":[
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5C5D5F","material":"daytonagreypearl"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#787A7C","material":"silvergraymetallic"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E1E1E1","material":"carrarawhitemetallic"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#07070B","material":"blacksapphiremetallicvolvo"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#83888D","material":"nardogrey"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#061F4C","material":"tanzanitebluemetallic"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C20A05","material":"tangoredmetallic"}]}
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#696F73","material":"daytonagrey_pearl_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C4C4C4","material":"florettsilver_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E0E0E0","material":"glacierwhite_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0D0D0E","material":"mythosblack_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#636467","material":"nardogrey_solid_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1B2E5F","material":"navarreblue_met_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#991B26","material":"tangored_met_aud"}]}
+    ]},
+    {"id":3588,"media":"BEN_FlyingSpur_19","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A3A4A5","material":"moonbeam_met_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BE0617","material":"BabylonRedMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#24301E","material":"britishracinggreen4_met_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#4978B5","material":"neptune_met_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#383072","material":"azurepurple_met_ben"}]}
     ]},
     {"id":3590,"media":"CHE_CKPickup_73","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A80116","material":"98Ferrari333SPRed"}]},
@@ -5769,12 +6198,37 @@
     {"id":3598,"media":"FOR_MustangMachE1400_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9FA4B2","material":"for_mustangmache1400_21_baselivery"},{"parts":["Slot1"],"rgb":"#EFE7EF","material":"carpaint_livery"},{"parts":["Slot20"],"rgb":"#9FA4B2","material":"windshieldbanner"}]}
     ]},
+    {"id":3599,"media":"GMA_T50_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F2F8FE","material":"silver2015_650s"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#86081C","material":"DarkRedMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D2E9F9","material":"BlueWaterMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0C12","material":"CalibreBlack"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3C5C99","material":"BluCaracalla"}]}
+    ]},
     {"id":3600,"media":"HEN_VenomF5_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F63BB","material":"apexblue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B4B4B4","material":"carbonfiber_005_flip"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#ED7C04","material":"mclarenorange2"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B4B4B4","material":"carbonfiber_005_flip"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D90C07","material":"misanoredpearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B4B4B4","material":"carbonfiber_005_flip"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5F6062","material":"lagunagraypoly"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B4B4B4","material":"carbonfiber_005_flip"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#19191B","material":"neronemesis"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B4B4B4","material":"carbonfiber_005_flip"}]}
+    ]},
+    {"id":3602,"media":"JAG_XESVProject8_19","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#164A98","material":"VelocityBlueMet"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#164A98","material":"VelocityBlueMet"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C31406","material":"CalypsoRed"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C31406","material":"CalypsoRed"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#767C82","material":"corrisgreymet"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#767C82","material":"corrisgreymet"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FDF9F2","material":"BiancoFujiPearl"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FDF9F2","material":"BiancoFujiPearl"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F0F2EF","material":"WhiteMetallic"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F0F2EF","material":"WhiteMetallic"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0F0F","material":"jetblackmetallic_porsche"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0F0F","material":"jetblackmetallic_porsche"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#ED681D","material":"ValenciaOrange"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#ED681D","material":"ValenciaOrange"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BCBEBF","material":"SatinSilverMetAcura"},{"parts":["Slot1"],"rgb":"#575D65","material":"daytonagreymatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BCBEBF","material":"SatinSilverMetAcura"},{"parts":["Slot1"],"rgb":"#575D65","material":"noDraw"}]}
     ]},
     {"id":3603,"media":"JEE_4422_Trophy_19","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7D6D7D","material":"jee_4422_trophy_19_base_livery"},{"parts":["Slot1"],"rgb":"#ECEFDF","material":"carpaint_livery"}]}
@@ -5802,6 +6256,14 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#828895","material":"GrigioTitanoMet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"diamondblackmetallic"}]}
     ]},
+    {"id":3617,"media":"MER_SL63AMG_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8C1926","material":"berryredpearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1E8CCD","material":"MrBlue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#88888E","material":"MagneticGrayMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFCC3E","material":"ImolaYellow"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0A14","material":"CarbonBlackMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]}
+    ]},
     {"id":3620,"media":"NIS_Z_23","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1BE3E","material":"Giallo"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#022894","material":"SepangBlue"}]}
@@ -5817,6 +6279,16 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7F7F80","material":"GunMetalGrey"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0F0F0F","material":"BlackCarbonFiber"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#7F7F80","material":"GunMetalGrey"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0F0F","material":"jetblackmetallic_porsche"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0F0F0F","material":"BlackCarbonFiber"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#0F0F0F","material":"jetblackmetallic_porsche"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F8CD2","material":"GrabberBlue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0F0F0F","material":"BlackCarbonFiber"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#0F8CD2","material":"GrabberBlue"}]}
+    ]},
+    {"id":3629,"media":"TOY_YarisGR_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"glacierwhitemet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E6E6E6","material":"carbonFiber_001"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#91020F","material":"infraredmetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#91020F","material":"carbonFiber_001"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#17181A","material":"TuxedoBlackMetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#17181A","material":"carbonFiber_001"}]}
+    ]},
+    {"id":3631,"media":"AST_ValkyrieAMRPro_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#386C62","material":"BritishRacingGreen_AM"},{"parts":["Slot1"],"rgb":"#386C62","material":"nodraw"},{"parts":["Slot20"],"rgb":"#1A1A1A","material":"windshieldBanner_Base"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C3E64C","material":"BrightLime"},{"parts":["Slot1"],"rgb":"#D62019","material":"PerformanceRed"},{"parts":["Slot20"],"rgb":"#1A1A1A","material":"windshieldBanner"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#063E90","material":"aquabluemetallic_porsche"},{"parts":["Slot1"],"rgb":"#063E90","material":"noDraw"},{"parts":["Slot20"],"rgb":"#1A1A1A","material":"windshieldBanner"}]}
     ]},
     {"id":3636,"media":"VW_Beetle_Stories_66","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F5F5E6","material":"pearlwhite_vw"}]},
@@ -5881,6 +6353,14 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B51904","material":"che_camerocopo"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#4785B0","material":"windwardbluemet"}]}
     ]},
+    {"id":3661,"media":"LOT_ExigeCup430_18","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B40119","material":"ardentred_solid_lot"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B40119","material":"ardentred_solid_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFF3","material":"AspenWhitePearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B40119","material":"ardentred_solid_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#252424","material":"carbongrey_met_lot"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B40119","material":"ardentred_solid_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1F2D52","material":"essexblue_met_lot_material"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B40119","material":"ardentred_solid_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#383838","material":"blackmatte1b"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B40119","material":"ardentred_solid_lot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#386C62","material":"britishracinggreen_met_lot"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B40119","material":"ardentred_solid_lot"}]}
+    ]},
     {"id":3662,"media":"RJ_37_Pro4_20","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#191219","material":"rj_37_pro4_20_base_livery"},{"parts":["Slot1"],"rgb":"#EBF0E4","material":"carpaint_livery"}]}
     ]},
@@ -5898,6 +6378,14 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9CA00","material":"racingyellow_por"},{"parts":["Slot21"],"rgb":"#D9CA00","material":"por_stitch_01_yellow"},{"parts":["Slot18"],"rgb":"#D9CA00","material":"racingyellow_por"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A7021","material":"pythongreen_por"},{"parts":["Slot21"],"rgb":"#0A7021","material":"por_stitch_01_green"},{"parts":["Slot18"],"rgb":"#0A7021","material":"pythongreen_por"}]}
     ]},
+    {"id":3668,"media":"MCL_Artura_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7A080C","material":"CopperRedMica"},{"parts":["Slot1"],"rgb":"#7A080C","material":"mclarensticker"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#28749E","material":"TahitianGreenPearl"},{"parts":["Slot1"],"rgb":"#28749E","material":"mclarensticker"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DA7200","material":"mclarenorange_solid_mcl"},{"parts":["Slot1"],"rgb":"#DA7200","material":"mclarensticker"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#130A10","material":"baroloblackmet"},{"parts":["Slot1"],"rgb":"#130A10","material":"mclarensticker"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7B8395","material":"ceramicgrey_solid_mcl"},{"parts":["Slot1"],"rgb":"#7B8395","material":"mclarensticker"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#71782E","material":"LimeGreenPoly"},{"parts":["Slot1"],"rgb":"#71782E","material":"mclarensticker"}]}
+    ]},
     {"id":3670,"media":"FOR_4_FocusWRC_01","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6D9E6","material":"FOR_4_FocusWRC_01_base_livery"},{"parts":["Slot1"],"rgb":"#0C1D38","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"AlpineWhite"}]}
     ]},
@@ -5912,9 +6400,20 @@
     {"id":3673,"media":"LAM_SC20_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B1AEA9","material":"biancocanopus_matt_lam"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#3D13CB","material":"blucepheus_met_lam"},{"parts":["Slot1"],"rgb":"#EBECEB","material":"carPaint_livery"}]}
     ]},
+    {"id":3676,"media":"HYU_98_ElantraTCR_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8BB0D8","material":"HYU_98_ElantraTCR_21_livery"},{"parts":["Slot1"],"rgb":"#8BB0D8","material":"carpaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#EBC301","material":"ctr2yellow"},{"parts":["Slot20"],"rgb":"#8BB0D8","material":"windshieldBanner"}]}
+    ]},
     {"id":3677,"media":"LYN_03_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C5BD49","material":"phoenixyellowmet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0A14","material":"carbonblackmet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F8CD2","material":"grabberblue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0A14","material":"carbonblackmet"}]}
+    ]},
+    {"id":3678,"media":"HYU_i30N_20","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#749FC2","material":"powderblue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C11010","material":"BrightRedBMW"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#788590","material":"MonsoonGreyMetallic2"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E4E5E7","material":"OxfordWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0C12","material":"CalibreBlack"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#828895","material":"GrigioTitanoMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]}
     ]},
     {"id":3681,"media":"TOY_SupraRZWP_98","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0063A1","material":"sonicbluemica_met_sub"}]},
@@ -5964,11 +6463,28 @@
     {"id":3693,"media":"AC_6165_Class6100_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AE6D11","material":"AC_6165_Class6100_21_baseLivery"},{"parts":["Slot1"],"rgb":"#E4E6EF","material":"carPaint_livery"}]}
     ]},
+    {"id":3696,"media":"SHE_GT500_67","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C1080B","material":"AztecRed"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"AlpineWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#126CC0","material":"AcapulcoBlue"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"AlpineWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"Black"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"AlpineWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1D1CB","material":"WimbledonWhite"},{"parts":["Slot1"],"rgb":"#0F2B61","material":"darkbluemet56ford"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DBCE84","material":"limegoldmetallic_porsche"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"AlpineWhite"}]}
+    ]},
+    {"id":3697,"media":"JAG_FTypeSVR_20","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#015CB4","material":"ArdenBlue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#113133","material":"britishracinggreenmet2015jag"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CC1418","material":"absolutelyred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E57323","material":"LeMansSunsetMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#433C3C","material":"anthracitebrownmetallic_porsche"}]}
+    ]},
     {"id":3698,"media":"POR_MissionR_22","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E4E6","material":"biancoanopus_matt_lam_missionr"},{"parts":["Slot1"],"rgb":"#B92400","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#B92400","material":"volcanoorange_met_mcl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B92400","material":"volcanoorange_met_mcl"}]}
     ]},
     {"id":3699,"media":"FOR_GTOPI_17","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FC8752","material":"for_gtopi_17_baselivery"},{"parts":["Slot1"],"rgb":"#FB8EA5","material":"for_gtopi_17_baselivery"}]}
+    ]},
+    {"id":3700,"media":"MCL_Sabre_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DA7200","material":"mclarenorange_solid_mcl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#000000","material":"carbonfiber_005_flip_mid_low"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#636F94","material":"carpaint_livery"},{"parts":["Slot1"],"rgb":"#636F94","material":"carpaint_livery"}]}
     ]},
     {"id":3702,"media":"SPE_Offroad_00","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#247FA4","material":"spe_blue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"chrome"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#E3E2E2","material":"chrome"},{"parts":["Slot16"],"rgb":"#FEC240","material":"spe_offroad_00_gold"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"spe_offroad_00_livery_001"},{"parts":["Slot22"],"rgb":"#E3E2E2","material":"spe_offroad_00_skull_normalmap_02"},{"parts":["Slot23"],"rgb":"#E3E2E2","material":"hot_badge_002"},{"parts":["Slot17"],"rgb":"#E3E2E2","material":"metal_rgh_001"}]},
@@ -6078,6 +6594,36 @@
     {"id":3727,"media":"SPK_58_McLaren_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E16900","material":"SPK_58_McLaren_21_base_livery"},{"parts":["Slot1"],"rgb":"#E16900","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E16900","material":"blackmatte1"}]}
     ]},
+    {"id":3728,"media":"BEN_ContinentalGTC_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFBF1","material":"PearlescentWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DAB000","material":"monacoyellow_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#3F7FB7","material":"AzurroCalifornia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D76517","material":"orangeflame_met_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9EB03C","material":"GreenEnvy"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A58A77","material":"rosegold_met_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#07254C","material":"royalbluemetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AC031C","material":"stjamesred_met_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6A6C70","material":"AltoGrey"}]}
+    ]},
+    {"id":3729,"media":"VW_SP2_76","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D49025","material":"BahamaYellow"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E1AD02","material":"GialloGranturismoSpecial"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F3D404","material":"BriteYellow"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F63BB","material":"ApexBlue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#679FC2","material":"AlbaBlue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F1EDE2","material":"ChampionWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D66005","material":"ClassicCopper"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7BD04C","material":"UltimateGreen"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0EAC3E","material":"HellGrun"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A80116","material":"98Ferrari333SPRed"}]}
+    ]},
+    {"id":3732,"media":"VW_ID4_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#063E90","material":"aquabluemetallic_porsche"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFF3","material":"AspenWhitePearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BE0617","material":"BabylonRedMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#63747C","material":"WinchesterGrayMetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"diamondblackmetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]}
+    ]},
     {"id":3733,"media":"SPK_99_Odyssey21_21","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"SPK_99_Odyssey21_21_base_livery"},{"parts":["Slot1"],"rgb":"#E3E2E2","material":"carPaint_livery"}]}
     ]},
@@ -6087,6 +6633,13 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E7541E","material":"sunsetorange_met_bmw"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1E45A3","material":"porcelainbluemet"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#697072","material":"TweedGrey"}]}
+    ]},
+    {"id":3735,"media":"SUB_BRZ_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#044AA3","material":"wrblue_pearl_sub"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FEFBF1","material":"crystalwhite_pearl_sub"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7B7B7D","material":"icesilver_met_sub"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#35363B","material":"PearlGrayLFA"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#161618","material":"crystalblack_pearl_sub"}]}
     ]},
     {"id":3736,"media":"FOR_BroncoRaptor_22","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#30547A","material":"arlesblue"}]},
@@ -6103,6 +6656,14 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EDEDED","material":"MineralWhiteMetallic"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#123259","material":"EveningBlueMetallic"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#505F6A","material":"NanoGreyMetallic"}]}
+    ]},
+    {"id":3740,"media":"HEN_Mammoth6x6_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8A8A8A","material":"AlubeamSilver"},{"parts":["Slot1"],"rgb":"#080808","material":"Black"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1D1D1","material":"White"},{"parts":["Slot1"],"rgb":"#080808","material":"Black"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C1080B","material":"AztecRed"},{"parts":["Slot1"],"rgb":"#080808","material":"Black"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#414042","material":"GraniteCrystalMetallic"},{"parts":["Slot1"],"rgb":"#E9F0EC","material":"Silver"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#046FBE","material":"BlueFireMetallicEB5"},{"parts":["Slot1"],"rgb":"#E9F0EC","material":"Silver"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EB7601","material":"GoMango"},{"parts":["Slot1"],"rgb":"#080808","material":"Black"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"Black"}]}
     ]},
     {"id":3741,"media":"NIS_51_240SXFD_96","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EFE1EF","material":"NIS_51_240SXFD_96_base_livery"},{"parts":["Slot1"],"rgb":"#010510","material":"carPaint_livery"}]}
@@ -6139,12 +6700,20 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6BE02","material":"GialloEveros"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#230A29","material":"Daytona_Violet_Metallic"}]}
     ]},
+    {"id":3755,"media":"FOR_4_ElectricSupervan_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C8C8C8","material":"FOR_4_ElectricSupervan_22_baseLivery"},{"parts":["Slot1"],"rgb":"#C8C8C8","material":"carPaint_livery_metallic"},{"parts":["Slot20"],"rgb":"#C8C8C8","material":"windshieldBanner"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#C8C8C8","material":"GreenEnvy"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#C8C8C8","material":"plastic_ch2_custom_livery"}]}
+    ]},
+    {"id":3757,"media":"CZI_21C_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#120597","material":"MidwayBlueMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F1F4F6","material":"ChromeSilverMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E4E5E7","material":"OxfordWhite"}]}
+    ]},
     {"id":3760,"media":"POR_718CaymanGT4RS_22","colors":[
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FEED00","material":"racingyellow_por"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_005"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#828C96","material":"CementGrey"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_005"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#015CB4","material":"ArdenBlue"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_005"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF0010","material":"guardsred_por"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_005"}]},
-      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#969696","material":"gtsilver_met_por"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1E1E1E","material":"carbonfiber_005"}]}
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FEED00","material":"racingyellow_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#828C96","material":"CementGrey"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#015CB4","material":"ArdenBlue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF0010","material":"guardsred_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#969696","material":"gtsilver_met_por"}]}
     ]},
     {"id":3761,"media":"TOY_GR86_22","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F1EDE2","material":"championwhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"diamondblackmetallic"}]},
@@ -6164,6 +6733,17 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#39383E","material":"frozenpuregreymetallic"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#151B94","material":"frozenportimaobluemetallic"}]}
     ]},
+    {"id":3764,"media":"BMW_M5CS_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#444D57","material":"spacegrey_met_bmw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#BD9E84","material":"selene_bronze"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#273733","material":"spruce_met_ben"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#BD9E84","material":"selene_bronze"}]}
+    ]},
+    {"id":3766,"media":"CHE_CorvetteZ06_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B20B1E","material":"tartanred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FA700A","material":"arancioborealis"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D4A401","material":"tripleyellow"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#88888E","material":"magneticgraymet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F8CD2","material":"grabberblue"}]}
+    ]},
     {"id":3771,"media":"CHE_CorvetteERay_23","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#003179","material":"arablue_pearl_aud"},{"parts":["Slot1"],"rgb":"#4C4E50","material":"arcticsilver_met_lot"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#003179","material":"arablue_pearl_aud"},{"parts":["Slot1"],"rgb":"#003179","material":"nostripe"}]},
@@ -6180,8 +6760,86 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0904","material":"basaltblack_met_por"},{"parts":["Slot1"],"rgb":"#4C4E50","material":"arcticsilver_met_lot"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0904","material":"basaltblack_met_por"},{"parts":["Slot1"],"rgb":"#0F0904","material":"nostripe"}]}
     ]},
+    {"id":3774,"media":"LAM_Countach_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E9E9EB","material":"CalciteWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#00A0C8","material":"longbeachbluemetallic_002"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#414144","material":"GrigioAnthraciteMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E1AD02","material":"GialloGranturismoSpecial"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FA0423","material":"RossoPortofino"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#160202","material":"FireBlack"}]}
+    ]},
+    {"id":3775,"media":"LAM_AventadorUltimae_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8F8F8F","material":"GrigioMagnesioMet"},{"parts":["Slot1"],"rgb":"#AA0814","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#AA0814","material":"Rosso"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FA460F","material":"ArancioArgo"},{"parts":["Slot1"],"rgb":"#FA460F","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#FA460F","material":"ArancioArgo"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E7E1D9","material":"BiancoMiuraLambo"},{"parts":["Slot1"],"rgb":"#E7E1D9","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#E7E1D9","material":"BiancoMiuraLambo"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#35C7EF","material":"BluUranus"},{"parts":["Slot1"],"rgb":"#944F28","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#944F28","material":"tawnyorange"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#572F42","material":"BrambleVW"},{"parts":["Slot1"],"rgb":"#572F42","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#572F42","material":"BrambleVW"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A1017","material":"neronoctis_solid_lam"},{"parts":["Slot1"],"rgb":"#0A1017","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A1017","material":"neronoctis_solid_lam"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#0A1017","material":"neronoctis_solid_lam"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D89E02","material":"giallohorusmatte"},{"parts":["Slot1"],"rgb":"#D89E02","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#141414","material":"neronemesismatte"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#D89E02","material":"giallohorusmatte"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BC0216","material":"rossomarsmetallic"},{"parts":["Slot1"],"rgb":"#BC0216","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#BC0216","material":"rossomarsmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B2B6BC","material":"grigionimbusmetallic"},{"parts":["Slot1"],"rgb":"#B2B6BC","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B2B6BC","material":"grigionimbusmetallic"}]}
+    ]},
+    {"id":3781,"media":"POR_911GT3RS_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Slot23"],"rgb":"#FF0010","material":"guardsred_por"},{"parts":["Slot1"],"rgb":"#FF0010","material":"guardsred_por"},{"parts":["Slot18"],"rgb":"#950622","material":"bostonredmet"},{"parts":["Slot21"],"rgb":"#FF0010","material":"por_stitch_01_red"},{"parts":["Slot22"],"rgb":"#FF0010","material":"por_stitch_02_red"},{"parts":["Slot24"],"rgb":"#CC1418","material":"absolutelyred"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#950622","material":"bostonredmet"},{"parts":["Slot21"],"rgb":"#FF0010","material":"por_stitch_01_red"},{"parts":["Slot22"],"rgb":"#FF0010","material":"por_stitch_02_red"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF0010","material":"guardsred_por"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#FF0010","material":"por_stitch_01_red"},{"parts":["Slot22"],"rgb":"#FF0010","material":"por_stitch_02_red"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF0010","material":"guardsred_por"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#FF0010","material":"por_stitch_01_red"},{"parts":["Slot22"],"rgb":"#FF0010","material":"por_stitch_02_red"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black_por"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#080808","material":"por_stitch_01_black"},{"parts":["Slot22"],"rgb":"#080808","material":"por_stitch_02_black"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black_por"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#080808","material":"por_stitch_01_black"},{"parts":["Slot22"],"rgb":"#080808","material":"por_stitch_02_black"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black_por"},{"parts":["Slot23"],"rgb":"#E4E5E7","material":"oxfordwhite"},{"parts":["Slot1"],"rgb":"#E4E5E7","material":"oxfordwhite"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#B5B5B5","material":"por_stitch_01_white"},{"parts":["Slot22"],"rgb":"#B5B5B5","material":"por_stitch_02_white"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"black_por"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#B5B5B5","material":"por_stitch_01_white"},{"parts":["Slot22"],"rgb":"#B5B5B5","material":"por_stitch_02_white"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9CA00","material":"racingyellow_por"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#D9CA00","material":"por_stitch_01_yellow"},{"parts":["Slot22"],"rgb":"#D9CA00","material":"por_stitch_02_yellow"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9CA00","material":"racingyellow_por"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#D9CA00","material":"por_stitch_01_yellow"},{"parts":["Slot22"],"rgb":"#D9CA00","material":"por_stitch_02_yellow"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B5B5B5","material":"gtsilver_met_por"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#B5B5B5","material":"por_stitch_01_white"},{"parts":["Slot22"],"rgb":"#B5B5B5","material":"por_stitch_02_white"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B5B5B5","material":"gtsilver_met_por"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#B5B5B5","material":"por_stitch_01_white"},{"parts":["Slot22"],"rgb":"#B5B5B5","material":"por_stitch_02_white"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#828C96","material":"cementgrey"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#828C96","material":"por_stitch_01_grey"},{"parts":["Slot22"],"rgb":"#828C96","material":"por_stitch_02_grey"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#828C96","material":"cementgrey"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#828C96","material":"por_stitch_01_grey"},{"parts":["Slot22"],"rgb":"#828C96","material":"por_stitch_02_grey"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C63421","material":"lavaorange_met_por"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#C63421","material":"por_stitch_01_orange"},{"parts":["Slot22"],"rgb":"#C63421","material":"por_stitch_02_orange"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C63421","material":"lavaorange_met_por"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#C63421","material":"por_stitch_01_orange"},{"parts":["Slot22"],"rgb":"#C63421","material":"por_stitch_02_orange"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A7021","material":"pythongreen_por"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#0A7021","material":"por_stitch_01_green"},{"parts":["Slot22"],"rgb":"#0A7021","material":"por_stitch_02_green"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A7021","material":"pythongreen_por"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#0A7021","material":"por_stitch_01_green"},{"parts":["Slot22"],"rgb":"#0A7021","material":"por_stitch_02_green"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F8CD2","material":"sharkblue_por_pg"},{"parts":["Slot23"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot1"],"rgb":"#262629","material":"blackmatte1b"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#0F8CD2","material":"por_stitch_01_blue"},{"parts":["Slot22"],"rgb":"#0F8CD2","material":"por_stitch_02_blue"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F8CD2","material":"sharkblue_por_pg"},{"parts":["Slot23"],"rgb":"#000000","material":"nodraw"},{"parts":["Slot18"],"rgb":"#919191","material":"aluminum_clearcoat_flake"},{"parts":["Slot21"],"rgb":"#0F8CD2","material":"por_stitch_01_blue"},{"parts":["Slot22"],"rgb":"#0F8CD2","material":"por_stitch_02_blue"},{"parts":["Slot24"],"rgb":"#080808","material":"black"}]}
+    ]},
+    {"id":3785,"media":"TOY_Soarer_97","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0C192E","material":"azuriteblue_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AA3916","material":"cinnabarorange"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#28749E","material":"TahitianGreenPearl"}]}
+    ]},
+    {"id":3786,"media":"VW_Santana_12","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0E1961","material":"BlueMetMB"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#47160E","material":"rossowinner"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFFF","material":"arcticwhite_solid_vw"}]}
+    ]},
+    {"id":3787,"media":"LYN_05_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7FA143","material":"LynkcoGreen"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F05A14","material":"LynkCoOrange"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C20A05","material":"TangoRedMetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]}
+    ]},
+    {"id":3788,"media":"LYN_02_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F05A14","material":"LynkCoOrange"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#17181A","material":"SantoriniBlackMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7FA143","material":"LynkcoGreen"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#17181A","material":"SantoriniBlackMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#17181A","material":"SantoriniBlackMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#6E6E70","material":"GrayMetallic"}]}
+    ]},
+    {"id":3789,"media":"WUL_MiniEV_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#86AA8C","material":"FrostGreen"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"AlpineWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6A302","material":"arizonayellow"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"AlpineWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C3908A","material":"canyoncoral"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"AlpineWhite"}]}
+    ]},
     {"id":3791,"media":"PAG_ZondaCinqueOreo_09","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EDEDE9","material":"pag_zondacinqueoreo_09_baselivery"},{"parts":["Slot1"],"rgb":"#195BBA","material":"nodraw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E3E2E2","material":"alpinewhite"}]}
+    ]},
+    {"id":3793,"media":"MG_Cyberster_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#840F21","material":"BlackCherry"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"PikesPeakWhiteMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#161618","material":"PyreneanBlackPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#126CC0","material":"AcapulcoBlue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF8900","material":"VolcanoOrange"}]}
+    ]},
+    {"id":3794,"media":"MG_MG7_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1E6C4F","material":"mg_mg7_23"}]}
     ]},
     {"id":3795,"media":"MEY_Manx_23","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2F473B","material":"GreenMet"}]}
@@ -6199,6 +6857,267 @@
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CD9126","material":"speedyellow_porsche"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E5E5E6","material":"GalaxyWhite"}]},
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2E8C81","material":"TropicTurquoise"}]}
+    ]},
+    {"id":3811,"media":"LUC_Air_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#02122B","material":"DarkSapphire"}]}
+    ]},
+    {"id":3819,"media":"SUB_WRX_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#044AA3","material":"wrblue_pearl_sub"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D6550C","material":"fusionorangemetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B6B8C1","material":"icesilver_met_sub"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E4E5E7","material":"ArcticWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"diamondblackmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CC1418","material":"absolutelyred"}]}
+    ]},
+    {"id":3820,"media":"HYU_KonaN_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"BlackPearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"BlackPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9F051C","material":"WineRed"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#9F051C","material":"WineRed"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#9DB6CC","material":"MonzaSilverMetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#9DB6CC","material":"MonzaSilverMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DBDBD0","material":"Cream"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#DBDBD0","material":"Cream"}]}
+    ]},
+    {"id":3823,"media":"MAZ_MX5RF_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#072645","material":"DarkMetallicBlue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0F0F","material":"jetblackmetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#454545","material":"GunMetalPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FAF5E6","material":"IvoryTriCoatPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DAD8D4","material":"MorningFrostWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F62331","material":"AMGLeMansRed"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C0BCA8","material":"silversand"}]}
+    ]},
+    {"id":3827,"media":"HYU_Ioniq5N_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#749FC2","material":"powderblue"}]}
+    ]},
+    {"id":3828,"media":"HYU_Ioniq6_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"BlackPearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#828486","material":"silvergraymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9D8D7","material":"BiancoItalia"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#828486","material":"silvergraymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AEC2CE","material":"BlueGreyMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"BlackPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#4A515C","material":"darkesttungsten"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#828486","material":"silvergraymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2F2136","material":"quartz_met_mcl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#828486","material":"silvergraymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1C2A23","material":"mossgreenmetallic_porsche"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#828486","material":"silvergraymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8F0E1C","material":"canyonred"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"BlackPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BAB4A9","material":"IpanemaSandMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#131415","material":"BlackPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#566061","material":"camouflagegreenmatte2"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#828486","material":"silvergraymetallic"}]}
+    ]},
+    {"id":3829,"media":"HYU_NVision74_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AFB1B3","material":"PlatinumGrayMet"},{"parts":["Slot1"],"rgb":"#E5E8F0","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#AFB1B3","material":"metal_rgh_001"}]}
+    ]},
+    {"id":3830,"media":"JEE_WranglerJP_94","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AFB1B3","material":"nardogrey_solid_aud"},{"parts":["Slot1"],"rgb":"#9E9A94","material":"carPaint_livery"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#AFB1B3","material":"PlatinumGrayMet"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#DC1111","material":"AztecRed"},{"parts":["Slot20"],"rgb":"#AFB1B3","material":"PlatinumGrayMet"}]}
+    ]},
+    {"id":3832,"media":"DAT_240ZFastX_73","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CD9119","material":"fayenceyellow_porsche"},{"parts":["Slot1"],"rgb":"#CD9119","material":"carPaint_livery"},{"parts":["Slot20"],"rgb":"#CD9119","material":"windshieldBanner"}]}
+    ]},
+    {"id":3835,"media":"CHE_ImpalaFastX_66","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C896BB","material":"OrchidMetallic"}]}
+    ]},
+    {"id":3836,"media":"DOD_ChargerFastX_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6C6E70","material":"sharkgraymetallic"}]}
+    ]},
+    {"id":3837,"media":"DOD_ChargerFastX_70","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#141416","material":"NighthawkBlackPearl"}]}
+    ]},
+    {"id":3838,"media":"FAF_FlipCarFastX_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2B2B2B","material":"painted_metal_rgh"}]}
+    ]},
+    {"id":3840,"media":"LAM_HuracanSterrato_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E65C00","material":"cinnabarorange"},{"parts":["Slot1"],"rgb":"#E65C00","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AF0000","material":"rossomars_met_lam"},{"parts":["Slot1"],"rgb":"#AF0000","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFBB00","material":"giallohorus_matt_lam"},{"parts":["Slot1"],"rgb":"#FFBB00","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#60394D","material":"purplesilk_met_rol"},{"parts":["Slot1"],"rgb":"#60394D","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0071CF","material":"protonicblue_met_bmw"},{"parts":["Slot1"],"rgb":"#0071CF","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#929292","material":"grigionimbus_met_lam"},{"parts":["Slot1"],"rgb":"#929292","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#00060C","material":"neronoctis_solid_lam"},{"parts":["Slot1"],"rgb":"#00060C","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EBEADB","material":"bianco_opaco_mas"},{"parts":["Slot1"],"rgb":"#EBEADB","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#655832","material":"verdegea_matt"},{"parts":["Slot1"],"rgb":"#655832","material":"carpaint_livery"}]}
+    ]},
+    {"id":3846,"media":"FOR_MustangGT_24","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A5596","material":"apolloblue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2D3234","material":"delphinmetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"CTR2White"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6AD02","material":"giallo92lancia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#292929","material":"PantherBlackCrystal"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B00211","material":"VelocityRedMica"}]}
+    ]},
+    {"id":3847,"media":"FOR_MustangDarkHorse_24","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1E2845","material":"custom_blueember"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B10004","material":"race red_solid_for"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#006CA9","material":"grabber blue_solid_for"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0C4B90","material":"arcticbluepearl"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0C416C","material":"eveningbluemet"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#090B0E","material":"shadow black_met_for"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2D3234","material":"delphinmetallic"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EAEBEC","material":"oxford white_solid_for"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#757575","material":"m7_carbonized_gray_met_for"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#1A1A1A","material":"black_solid_for"}]}
+    ]},
+    {"id":3848,"media":"TOY_CamryTRD_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFF3","material":"AspenWhitePearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0A0F16","material":"AzuriteBlackMetallic"}]}
+    ]},
+    {"id":3849,"media":"FOR_F150RaptorR_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FDFEFF","material":"ArcticAluminum"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#04050F","material":"BlackSapphireMetallic"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2867A6","material":"mediumblue69chargerdaytona"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#63747C","material":"WinchesterGrayMetallic"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CC280F","material":"tangerine_porsche_v2"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E4E5E7","material":"ArcticWhite"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"}]}
+    ]},
+    {"id":3850,"media":"DOD_DurangoHellcat_21","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#757573","material":"LeadFoot"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5A782F","material":"MediumGreenMetCHE"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C6C8C6","material":"ErmineWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"Black"}]}
+    ]},
+    {"id":3851,"media":"TOY_Sera_91","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8BA9CC","material":"azurebluemetallic"},{"parts":["Slot16"],"rgb":"#131415","material":"BlackPearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C2BC96","material":"safariivory"},{"parts":["Slot16"],"rgb":"#131415","material":"BlackPearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"Black"},{"parts":["Slot16"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Slot20"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#840F21","material":"BlackCherry"},{"parts":["Slot16"],"rgb":"#E3E2E2","material":"AlpineWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E9F0EC","material":"Silver"},{"parts":["Slot16"],"rgb":"#131415","material":"BlackPearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#080808","material":"black"}]}
+    ]},
+    {"id":3854,"media":"AZM_AZ1_93","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#084BB4","material":"arrowblue_porsche"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#747980","material":"BasaltGrey"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CC1418","material":"absolutelyred"},{"parts":["Slot1"],"rgb":"#636F94","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#747980","material":"BasaltGrey"}]}
+    ]},
+    {"id":3855,"media":"NIS_Figaro_91","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A1B993","material":"PearlGreenMB"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E4E5E7","material":"ArcticWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#84ACC9","material":"lightbluemb"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E4E5E7","material":"ArcticWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A9997C","material":"mushroombeige"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E4E5E7","material":"ArcticWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#75787A","material":"dakotagray"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#E4E5E7","material":"ArcticWhite"}]}
+    ]},
+    {"id":3856,"media":"NIS_BE1_87","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#DCBE59","material":"wheatlandyellow"},{"parts":["Slot18"],"rgb":"#DCBE59","material":"wheatlandyellow"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1D1D1","material":"White"},{"parts":["Slot18"],"rgb":"#D1D1D1","material":"white"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#557388","material":"Blue"},{"parts":["Slot18"],"rgb":"#557388","material":"blue"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CC221C","material":"CarnivalRed"},{"parts":["Slot18"],"rgb":"#CC221C","material":"carnivalred"}]}
+    ]},
+    {"id":3858,"media":"NIS_Stagea_97","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A6A9AD","material":"bladesilvermetallic2015"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#7C7B7B","material":"DarkGreyPearl"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#409F80","material":"GrabberGreen"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#74192A","material":"DarkRedMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E7E8E7","material":"StarfirePearl"}]}
+    ]},
+    {"id":3860,"media":"NIS_SCargo_89","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C9ACB3","material":"duskpearl_new"},{"parts":["Slot18"],"rgb":"#C9ACB3","material":"duskpearl_new"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#C9ACB3","material":"duskpearl_new"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#262629","material":"blackmatte1"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B7B5A6","material":"beigegraymetallic"},{"parts":["Slot18"],"rgb":"#B7B5A6","material":"beigegraymetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#B7B5A6","material":"beigegraymetallic"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#262629","material":"blackmatte1"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFF3","material":"AspenWhitePearl"},{"parts":["Slot18"],"rgb":"#FFFFF3","material":"aspenwhitepearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#FFFFF3","material":"aspenwhitepearl"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#262629","material":"blackmatte1"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F0D66D","material":"YellowDodge"},{"parts":["Slot18"],"rgb":"#F0D66D","material":"yellowdodge"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#F0D66D","material":"yellowdodge"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#262629","material":"blackmatte1"}]}
+    ]},
+    {"id":3864,"media":"KIA_EV6GT_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5E5E5E","material":"titaniumgrey_matt_aud"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E4E5E7","material":"ArcticWhite"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#122F7C","material":"cobaltoblue_met_alf"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#45484C","material":"TempestGreyMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#91020F","material":"InfraRedMetallic"}]}
+    ]},
+    {"id":3881,"media":"DEL_BTTF1_81","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C6CCC9","material":"stainless_steel_brushed"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#C6CCC9","material":"younggunsgreysemigloss"}]}
+    ]},
+    {"id":3882,"media":"DEL_BTTF2_81","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C6CCC9","material":"stainless_steel_brushed"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#C6CCC9","material":"younggunsgreysemigloss"}]}
+    ]},
+    {"id":3883,"media":"DEL_BTTF3_81","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C6CCC9","material":"stainless_steel_brushed"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#C6CCC9","material":"younggunsgreysemigloss"}]}
+    ]},
+    {"id":3884,"media":"PON_FirebirdTransAmKR_82","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"Black"}]}
+    ]},
+    {"id":3886,"media":"MIT_LancerEvoIII_95","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EFF3FD","material":"CoolSilverMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6AD02","material":"giallo92lancia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C91515","material":"PassionRed"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1D1D1","material":"White"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#080808","material":"Black"}]}
+    ]},
+    {"id":3890,"media":"POR_TaycanCrossTurismo_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0F0F0F","material":"black_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B40119","material":"carminered_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#74ADC2","material":"AzureTurquiosePoly"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FBFBFB","material":"carrarawhite_met_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EFF3FD","material":"dolomitesilver_met_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#024B8C","material":"adriaticblue_porsche"}]}
+    ]},
+    {"id":3891,"media":"LAM_Revuelto_24","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF7A00","material":"arancioborealis_pearl_lam"},{"parts":["Slot1"],"rgb":"#EB7100","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C6CCCE","material":"biancoicarus_met_lam"},{"parts":["Slot1"],"rgb":"#C6CCCE","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0071CF","material":"protonicblue_met_bmw"},{"parts":["Slot1"],"rgb":"#0071CF","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#60394D","material":"purplesilk_met_rol"},{"parts":["Slot1"],"rgb":"#60394D","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#00060C","material":"neronoctis_solid_lam"},{"parts":["Slot1"],"rgb":"#00060C","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFB82B","material":"giallomidas_pearl_lam"},{"parts":["Slot1"],"rgb":"#FFB82B","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AF0000","material":"rossomars_met_lam"},{"parts":["Slot1"],"rgb":"#AF0000","material":"carPaint_livery"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#929292","material":"grigioveneno_met_lam"},{"parts":["Slot1"],"rgb":"#929292","material":"carPaint_livery"}]}
+    ]},
+    {"id":3896,"media":"CHE_DebertiC10_65","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#262629","material":"blackmatte1"},{"parts":["Slot1"],"rgb":"#262629","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#AF0605","material":"candyredmet"}]}
+    ]},
+    {"id":3903,"media":"FOR_FiestaST_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#1A1A1A","material":"StarlightBlackMet"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#E6E6E6","material":"frozen white_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6B7175","material":"magnetic grey_met_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#73A855","material":"applegreen2"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#8C0E00","material":"race red_solid_for"}]}
+    ]},
+    {"id":3904,"media":"FOR_FocusST_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#B10004","material":"race red_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#15171B","material":"black_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D9D9D9","material":"frozen white_solid_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#676969","material":"magnetic grey_met_for"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#63BF3D","material":"mantisgreen"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C1080B","material":"AztecRed"}]}
+    ]},
+    {"id":3910,"media":"POR_911Dakar_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FF0000","material":"por_911dakar_23_baselivery"},{"parts":["Slot1"],"rgb":"#012D7E","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#FFFFFF","material":"por_911dakar_23_baselivery"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B8BBC1","material":"arcticsilvermetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"black_por"},{"parts":["Slot1"],"rgb":"#131415","material":"noDraw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#383838","material":"blackmatte1"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B8BBC1","material":"arcticsilvermetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#BEC0C2","material":"gtsilver_met_por"},{"parts":["Slot1"],"rgb":"#BEC0C2","material":"noDraw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#383838","material":"blackmatte1"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B8BBC1","material":"arcticsilvermetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EFEFEF","material":"ArticGreyMet"},{"parts":["Slot1"],"rgb":"#EFEFEF","material":"noDraw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#383838","material":"blackmatte1"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B8BBC1","material":"arcticsilvermetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#5F6E6E","material":"palegreenmet54jag"},{"parts":["Slot1"],"rgb":"#5F6E6E","material":"noDraw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#383838","material":"blackmatte1"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B8BBC1","material":"arcticsilvermetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#084BB4","material":"arrowblue_porsche"},{"parts":["Slot1"],"rgb":"#084BB4","material":"noDraw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#383838","material":"blackmatte1"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B8BBC1","material":"arcticsilvermetallic_porsche"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#EBECEB","material":"white_por"},{"parts":["Slot1"],"rgb":"#EBECEB","material":"noDraw"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#383838","material":"blackmatte1"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#B8BBC1","material":"arcticsilvermetallic_porsche"}]}
+    ]},
+    {"id":3914,"media":"TOY_ChaserGT_91","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#131415","material":"BlackPearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#6E6E70","material":"GrayMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFF3","material":"AspenWhitePearl"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#6E6E70","material":"GrayMetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6E6E70","material":"GrayMetallic"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#6E6E70","material":"GrayMetallic"}]}
+    ]},
+    {"id":3921,"media":"NIS_ZNismo_24","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#415866","material":"graphiteblue_met_por"},{"parts":["Slot1"],"rgb":"#415866","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#415866","material":"alfablack_solid_alf"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0A0608","material":"diamondblackpearl_met_nis"},{"parts":["Slot1"],"rgb":"#000E16","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#000E16","material":"alfablack_solid_alf"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#6B7583","material":"brilliantsilver_met_nis"},{"parts":["Slot1"],"rgb":"#737D84","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#737D84","material":"alfablack_solid_alf"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFF0","material":"whitepearl_met_nis"},{"parts":["Slot1"],"rgb":"#DFE1D1","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#DFE1D1","material":"alfablack_solid_alf"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#990013","material":"vibrantred_solid_nis"},{"parts":["Slot1"],"rgb":"#8C000D","material":"carPaint_livery"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#8C000D","material":"alfablack_solid_alf"}]}
+    ]},
+    {"id":3929,"media":"NIS_Pao_89","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#63747C","material":"WinchesterGrayMetallic"},{"parts":["Slot1"],"rgb":"#63747C","material":"AlpineWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#64747C","material":"winchestergraymetallic"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#64747C","material":"winchestergraymetallic"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#CBC1AB","material":"IvoryMB"},{"parts":["Slot1"],"rgb":"#CBC1AB","material":"AlpineWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#CBC1AB","material":"ivorymb"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#CBC1AB","material":"ivorymb"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#91A09B","material":"HardlyGreen"},{"parts":["Slot1"],"rgb":"#91A09B","material":"AlpineWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#91A09B","material":"hardlygreen"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#91A09B","material":"hardlygreen"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#AD4602","material":"sunorange"},{"parts":["Slot1"],"rgb":"#AD4602","material":"AlpineWhite"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#AD4602","material":"sunorange"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#AD4602","material":"sunorange"}]}
+    ]},
+    {"id":3951,"media":"POR_00_911GT3R_24","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#0C0B0A","material":"deepblack_met_por"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#A5A5A5","material":"gtsilver_met_por"},{"parts":["Slot1"],"rgb":"#D61700","material":"carPaint_livery"},{"parts":["Body_TertiaryColor","Hood_TertiaryColor","Mirror_TertiaryColor","Wing_TertiaryColor"],"rgb":"#FF1B00","material":"gomango_solid_sgm"}]}
+    ]},
+    {"id":3953,"media":"POR_911TurboS_23","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#666666","material":"agategrey_met_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#030405","material":"black_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A00013","material":"carminered_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D0D0CC","material":"crayon_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#000D6A","material":"gentianblue_met_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FEED00","material":"racingyellow_por"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#A4284A","material":"magenta_met_ben"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#4C5652","material":"adventuringgreen_met_por"}]}
+    ]},
+    {"id":3959,"media":"DOD_ChallengerSRT_22","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2163A0","material":"bluenethus_met_lam"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#F03A19","material":"gomango_solid_sgm"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#4D6142","material":"britishracinggreen4_met_ben"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#85D600","material":"roulette_green_pearl_cat"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2F2661","material":"plumcrazy_met_gm"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#141515","material":"pitchblack_solid_gm"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#2B3136","material":"granite_crystal_met_gm"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#C0C2C5","material":"borasco_grey_met_jlr"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]},
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#FFFFFF","material":"biancomonocerus_solid_lam"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#0E1114","material":"black_matt_fia"}]}
+    ]},
+    {"id":3972,"media":"CHE_CamaroSSFE_69","colors":[
+      {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#D1D1D1","material":"White"},{"parts":["Slot1"],"rgb":"#000000","material":"che_camarossfe_69_livery_001"}]}
     ]},
     {"id":9000,"media":"PEU_205T16_Stories_84","colors":[
       {"groups":[{"parts":["Body","Hood","Mirror","Wing"],"rgb":"#676869","material":"sharkgrey_met_peu"},{"parts":["Slot1"],"rgb":"#9B0000","material":"adenred_solid_peu"},{"parts":["Body_SecondaryColor","Hood_SecondaryColor","Mirror_SecondaryColor","Wing_SecondaryColor"],"rgb":"#9B0000","material":"adenred_solid_peu"}]},
